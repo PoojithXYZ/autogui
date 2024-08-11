@@ -2,7 +2,7 @@ import csv
 
 def make_si_links(problem_name, is_basic = True):
     def rewrite_name(problem_name = problem_name):
-        return problem_name.replace(" ", "-")
+        return problem_name.replace(" ", "-").replace("'", "")
     si_link = f"https://hive.smartinterviews.in/contests/smart-interviews-{"basic" if is_basic == True else "primary"}/problems/{rewrite_name(problem_name)}?page=0&pageSize=100"
     return si_link
 

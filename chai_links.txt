@@ -1,0 +1,768 @@
+max element in array
+max score: 20
+
+users tried: 18429
+
+success rate: 96.11%
+
+try again
+number distribution
+max score: 21
+
+users tried: 13894
+
+success rate: 98.48%
+
+try again
+reverse array
+max score: 20
+
+users tried: 16770
+
+success rate: 97.41%
+
+try again
+odd and even sum
+max score: 20
+
+users tried: 14158
+
+success rate: 98.84%
+
+try again
+mean median mode
+max score: 20
+
+users tried: 9865
+
+success rate: 83.78%
+
+try again
+the missing number
+max score: 20
+
+users tried: 14852
+
+success rate: 99.02%
+
+try again
+find duplicate number in array
+max score: 20
+
+users tried: 15618
+
+success rate: 97.72%
+
+try again
+first and last
+max score: 20
+
+users tried: 11342
+
+success rate: 96.98%
+
+try again
+unique elements
+max score: 20
+
+users tried: 14469
+
+success rate: 91.98%
+
+try again
+merge two sorted arrays
+max score: 20
+
+users tried: 9607
+
+success rate: 96.29%
+
+try again
+print array a using b
+max score: 20
+
+users tried: 9802
+
+success rate: 96.85%
+
+try again
+gauntlets
+max score: 20
+
+users tried: 7896
+
+success rate: 93.86%
+
+try again
+max altitude
+max score: 20
+
+users tried: 13593
+
+success rate: 98.34%
+
+try again
+longest contiguous 1's
+max score: 20
+
+users tried: 13357
+
+success rate: 96.11%
+
+try again
+max min partition
+max score: 20
+
+users tried: 6095
+
+success rate: 93.34%
+
+try again
+left sum and right sum
+max score: 20
+
+users tried: 12024
+
+success rate: 95.92%
+
+try again
+alternate seating
+max score: 20
+
+users tried: 5622
+
+success rate: 76.22%
+
+try again
+implement merge sort
+max score: 20
+
+users tried: 2028
+
+success rate: 90.58%
+
+try again
+implement linear search
+max score: 20
+
+users tried: 12043
+
+success rate: 96.51%
+
+try again
+implement binary search
+max score: 20
+
+users tried: 5257
+
+success rate: 96.06%
+
+try again
+matrix row sum
+max score: 20
+
+users tried: 14493
+
+success rate: 95.01%
+
+try again
+matrix column sum
+max score: 20
+
+users tried: 12491
+
+success rate: 88.64%
+
+try again
+submatrix sum
+max score: 20
+
+users tried: 6581
+
+success rate: 97.36%
+
+try again
+lower triangle
+max score: 20
+
+users tried: 7832
+
+success rate: 98.84%
+
+try again
+sum of two matrices
+max score: 20
+
+users tried: 11998
+
+success rate: 96.77%
+
+try again
+interchange diagonals
+max score: 20
+
+users tried: 9652
+
+success rate: 97.71%
+
+try again
+count the elements - matrix in array
+max score: 20
+
+users tried: 5608
+
+success rate: 92.71%
+
+try again
+matrix zig-zag traversal
+max score: 20
+
+users tried: 9097
+
+success rate: 97.27%
+
+try again
+transpose matrix
+max score: 20
+
+users tried: 10986
+
+success rate: 95.07%
+
+try again
+sparse matrix
+max score: 20
+
+users tried: 9757
+
+success rate: 96.31%
+
+try again
+super one
+max score: 20
+
+users tried: 3253
+
+success rate: 80.39%
+
+try again
+image flip
+max score: 20
+
+users tried: 8173
+
+success rate: 93.92%
+
+try again
+local max in matrix
+max score: 20
+
+users tried: 3137
+
+success rate: 94.1%
+
+try again
+zero row and zero column
+max score: 20
+
+users tried: 7525
+
+success rate: 94.71%
+
+try again
+check bit
+max score: 20
+
+users tried: 10231
+
+success rate: 95.45%
+
+try again
+triangle validator
+max score: 20
+
+users tried: 12159
+
+success rate: 96.34%
+
+try again
+area of rectangle
+max score: 20
+
+users tried: 11838
+
+success rate: 95.95%
+
+try again
+arithmetic operators
+max score: 20
+
+users tried: 11093
+
+success rate: 97.21%
+
+try again
+arithmetic progression
+max score: 20
+
+users tried: 10616
+
+success rate: 99.53%
+
+try again
+compute a power b
+max score: 20
+
+users tried: 13134
+
+success rate: 93.39%
+
+try again
+number reverse
+max score: 20
+
+users tried: 12156
+
+success rate: 80.15%
+
+try again
+fibonacci number
+max score: 20
+
+users tried: 12931
+
+success rate: 94.21%
+
+try again
+factorial
+max score: 20
+
+users tried: 13985
+
+success rate: 98.88%
+
+try again
+catalan number
+max score: 20
+
+users tried: 5500
+
+success rate: 94.38%
+
+try again
+ncr basic
+max score: 20
+
+users tried: 5528
+
+success rate: 88.86%
+
+try again
+applying modulus
+max score: 20
+
+users tried: 4116
+
+success rate: 80.83%
+
+try again
+factorial hard
+max score: 20
+
+users tried: 9408
+
+success rate: 88.55%
+
+try again
+minimum subtraction
+max score: 20
+
+users tried: 3919
+
+success rate: 83.01%
+
+try again
+number of multiples
+max score: 20
+
+users tried: 10058
+
+success rate: 81.5%
+
+try again
+a b and x
+max score: 20
+
+users tried: 4430
+
+success rate: 72.75%
+
+try again
+natural numbers sum
+max score: 20
+
+users tried: 13125
+
+success rate: 94.06%
+
+try again
+armstrong number
+max score: 20
+
+users tried: 12235
+
+success rate: 96.8%
+
+try again
+narcissistic numbers
+max score: 20
+
+users tried: 9708
+
+success rate: 94.37%
+
+try again
+harshad numbers
+max score: 20
+
+users tried: 10730
+
+success rate: 96.97%
+
+try again
+compound interest
+max score: 20
+
+users tried: 5371
+
+success rate: 92.42%
+
+try again
+quadratic equation
+max score: 20
+
+users tried: 5780
+
+success rate: 88.98%
+
+try again
+prime or not
+max score: 20
+
+users tried: 11581
+
+success rate: 84.09%
+
+try again
+arrange primes
+max score: 20
+
+users tried: 1664
+
+success rate: 89.96%
+
+try again
+fuel tank
+max score: 20
+
+users tried: 2855
+
+success rate: 76.25%
+
+try again
+min digit
+max score: 20
+
+users tried: 4733
+
+success rate: 95.29%
+
+try again
+number of rectangles
+max score: 20
+
+users tried: 3300
+
+success rate: 89.61%
+
+try again
+point location
+max score: 20
+
+users tried: 2680
+
+success rate: 92.24%
+
+try again
+area of polygon
+max score: 20
+
+users tried: 2628
+
+success rate: 87.25%
+
+try again
+filled rectangle
+max score: 20
+
+users tried: 9135
+
+success rate: 99.73%
+
+try again
+hollow rectangle
+max score: 20
+
+users tried: 10217
+
+success rate: 97.45%
+
+try again
+rectangle pattern
+max score: 20
+
+users tried: 9660
+
+success rate: 97.19%
+
+try again
+triangle pattern
+max score: 20
+
+users tried: 9122
+
+success rate: 98.95%
+
+try again
+floyd pattern - 1
+max score: 20
+
+users tried: 11680
+
+success rate: 98.97%
+
+try again
+floyd pattern - 2
+max score: 20
+
+users tried: 8237
+
+success rate: 95.19%
+
+try again
+half diamond
+max score: 20
+
+users tried: 10207
+
+success rate: 99%
+
+try again
+half diamond with numbers
+max score: 20
+
+users tried: 7796
+
+success rate: 98.97%
+
+try again
+inverted pyramid
+max score: 20
+
+users tried: 8216
+
+success rate: 95.06%
+
+try again
+pyramid pattern
+max score: 20
+
+users tried: 9493
+
+success rate: 97.69%
+
+try again
+palindromic pattern
+max score: 20
+
+users tried: 7839
+
+success rate: 97.58%
+
+try again
+multiplication table
+max score: 20
+
+users tried: 11113
+
+success rate: 98.74%
+
+try again
+pascal's triangle
+max score: 20
+
+users tried: 3362
+
+success rate: 95.78%
+
+try again
+reverse string
+max score: 20
+
+users tried: 10998
+
+success rate: 98.68%
+
+try again
+odd even index
+max score: 20
+
+users tried: 9454
+
+success rate: 98.66%
+
+try again
+toggle case
+max score: 20
+
+users tried: 9154
+
+success rate: 99.12%
+
+try again
+vowels and consonants
+max score: 20
+
+users tried: 9607
+
+success rate: 96.88%
+
+try again
+letter coverage
+max score: 20
+
+users tried: 6815
+
+success rate: 87.97%
+
+try again
+check the square string
+max score: 20
+
+users tried: 3849
+
+success rate: 93.19%
+
+try again
+balanced splitting
+max score: 20
+
+users tried: 2980
+
+success rate: 96.34%
+
+try again
+digit string
+max score: 20
+
+users tried: 8886
+
+success rate: 96.13%
+
+try again
+digits sum
+max score: 20
+
+users tried: 10643
+
+success rate: 88.79%
+
+try again
+number of days
+max score: 20
+
+users tried: 2608
+
+success rate: 94.98%
+
+try again
+ab and cd
+max score: 20
+
+users tried: 2696
+
+success rate: 93.55%
+
+try again
+strong password
+max score: 20
+
+users tried: 4362
+
+success rate: 80.88%
+
+try again
+anagram basic
+max score: 20
+
+users tried: 4683
+
+success rate: 94.53%
+
+try again
+compress string
+max score: 20
+
+users tried: 6989
+
+success rate: 95.66%
+
+try again
+strings rotation
+max score: 20
+
+users tried: 3762
+
+success rate: 92.93%
+
+try again
+prefix suffix equality
+max score: 20
+
+users tried: 4655
+
+success rate: 93.3%
+
+try again
+longest prefix suffix
+max score: 20
+
+users tried: 4761
+
+success rate: 88.57%
+
+try again
+long pressed keys
+max score: 20
+
+users tried: 1861
+
+success rate: 65.61%
+
+try again
+string gcd
+max score: 20
+
+users tried: 1737
+
+success rate: 88.54%
+
+try again
+hashset operations
+max score: 20
+
+users tried: 1548
+
+success rate: 85.59%
+
+try again

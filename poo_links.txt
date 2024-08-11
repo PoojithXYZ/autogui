@@ -1,0 +1,592 @@
+Max Element in Array
+Max Score: 20
+
+Users Tried: 18429
+
+Success Rate: 96.11%
+
+Try Again
+Number Distribution
+Max Score: 20
+
+Users Tried: 13894
+
+Success Rate: 98.48%
+
+Try Again
+Reverse Array
+Max Score: 20
+
+Users Tried: 16770
+
+Success Rate: 97.41%
+
+Try Again
+Odd and Even Sum
+Max Score: 20
+
+Users Tried: 14158
+
+Success Rate: 98.84%
+
+Try Again
+Mean Median Mode
+Max Score: 20
+
+Users Tried: 9865
+
+Success Rate: 83.78%
+
+Try Again
+The Missing Number
+Max Score: 20
+
+Users Tried: 14852
+
+Success Rate: 99.02%
+
+Try Again
+Find Duplicate Number in Array
+Max Score: 20
+
+Users Tried: 15618
+
+Success Rate: 97.72%
+
+Try Again
+First and Last
+Max Score: 20
+
+Users Tried: 11342
+
+Success Rate: 96.98%
+
+Try Again
+Unique Elements
+Max Score: 20
+
+Users Tried: 14469
+
+Success Rate: 91.98%
+
+Try Again
+Merge Two Sorted Arrays
+Max Score: 20
+
+Users Tried: 9607
+
+Success Rate: 96.29%
+
+Try Again
+Print Array A Using B
+Max Score: 20
+
+Users Tried: 9802
+
+Success Rate: 96.85%
+
+Try Again
+Gauntlets
+Max Score: 20
+
+Users Tried: 7896
+
+Success Rate: 93.86%
+
+Try Again
+Max Altitude
+Max Score: 20
+
+Users Tried: 13593
+
+Success Rate: 98.34%
+
+Try Again
+Longest Contiguous 1's
+Max Score: 20
+
+Users Tried: 13357
+
+Success Rate: 96.11%
+
+Try Again
+Max Min Partition
+Max Score: 20
+
+Users Tried: 6095
+
+Success Rate: 93.34%
+
+Try Again
+Left Sum and Right Sum
+Max Score: 20
+
+Users Tried: 12024
+
+Success Rate: 95.92%
+
+Try Again
+Ternary Array
+Max Score: 20
+
+Users Tried: 4846
+
+Success Rate: 88.22%
+
+Try Again
+List Operations
+Max Score: 20
+
+Users Tried: 3461
+
+Success Rate: 87.86%
+
+Try Again
+Implement Linear Search
+Max Score: 20
+
+Users Tried: 12043
+
+Success Rate: 96.51%
+
+Try Again
+Matrix Row Sum
+Max Score: 20
+
+Users Tried: 14493
+
+Success Rate: 95.01%
+
+Try Again
+Matrix Column Sum
+Max Score: 20
+
+Users Tried: 12491
+
+Success Rate: 88.64%
+
+Try Again
+Submatrix Sum
+Max Score: 20
+
+Users Tried: 6581
+
+Success Rate: 97.36%
+
+Try Again
+Lower Triangle
+Max Score: 20
+
+Users Tried: 7832
+
+Success Rate: 98.84%
+
+Try Again
+Sum of Two Matrices
+Max Score: 20
+
+Users Tried: 11998
+
+Success Rate: 96.77%
+
+Try Again
+Interchange Diagonals
+Max Score: 20
+
+Users Tried: 9652
+
+Success Rate: 97.71%
+
+Try Again
+Count the Elements - Matrix in Array
+Max Score: 20
+
+Users Tried: 5608
+
+Success Rate: 92.71%
+
+Try Again
+Matrix Zig-Zag Traversal
+Max Score: 20
+
+Users Tried: 9097
+
+Success Rate: 97.27%
+
+Try Again
+Transpose Matrix
+Max Score: 20
+
+Users Tried: 10986
+
+Success Rate: 95.07%
+
+Try Again
+Sparse Matrix
+Max Score: 20
+
+Users Tried: 9757
+
+Success Rate: 96.31%
+
+Try Again
+Image Flip
+Max Score: 20
+
+Users Tried: 8173
+
+Success Rate: 93.92%
+
+Try Again
+Zero Row and Zero Column
+Max Score: 20
+
+Users Tried: 7525
+
+Success Rate: 94.71%
+
+Try Again
+Check Bit
+Max Score: 20
+
+Users Tried: 10231
+
+Success Rate: 95.45%
+
+Try Again
+Triangle Validator
+Max Score: 20
+
+Users Tried: 12159
+
+Success Rate: 96.34%
+
+Try Again
+Area of Rectangle
+Max Score: 20
+
+Users Tried: 11838
+
+Success Rate: 95.95%
+
+Try Again
+Arithmetic Operators
+Max Score: 20
+
+Users Tried: 11093
+
+Success Rate: 97.21%
+
+Try Again
+Arithmetic Progression
+Max Score: 20
+
+Users Tried: 10616
+
+Success Rate: 99.53%
+
+Try Again
+Compute A power B
+Max Score: 20
+
+Users Tried: 13134
+
+Success Rate: 93.39%
+
+Try Again
+Number Reverse
+Max Score: 20
+
+Users Tried: 12156
+
+Success Rate: 80.15%
+
+Try Again
+Fibonacci Number
+Max Score: 20
+
+Users Tried: 12931
+
+Success Rate: 94.21%
+
+Try Again
+Factorial
+Max Score: 20
+
+Users Tried: 13985
+
+Success Rate: 98.88%
+
+Try Again
+Factorial Hard
+Max Score: 20
+
+Users Tried: 9409
+
+Success Rate: 88.55%
+
+Try Again
+Number of Multiples
+Max Score: 20
+
+Users Tried: 10058
+
+Success Rate: 81.5%
+
+Try Again
+Natural Numbers Sum
+Max Score: 20
+
+Users Tried: 13125
+
+Success Rate: 94.06%
+
+Try Again
+Armstrong Number
+Max Score: 20
+
+Users Tried: 12235
+
+Success Rate: 96.8%
+
+Try Again
+Narcissistic Numbers
+Max Score: 20
+
+Users Tried: 9708
+
+Success Rate: 94.37%
+
+Try Again
+Harshad Numbers
+Max Score: 20
+
+Users Tried: 10730
+
+Success Rate: 96.97%
+
+Try Again
+Quadratic Equation
+Max Score: 20
+
+Users Tried: 5780
+
+Success Rate: 88.98%
+
+Try Again
+Prime or Not
+Max Score: 20
+
+Users Tried: 11581
+
+Success Rate: 84.09%
+
+Try Again
+Min Digit
+Max Score: 20
+
+Users Tried: 4733
+
+Success Rate: 95.29%
+
+Try Again
+Area of Polygon
+Max Score: 20
+
+Users Tried: 2628
+
+Success Rate: 87.25%
+
+Try Again
+Filled Rectangle
+Max Score: 20
+
+Users Tried: 9135
+
+Success Rate: 99.73%
+
+Try Again
+Hollow Rectangle
+Max Score: 20
+
+Users Tried: 10217
+
+Success Rate: 97.45%
+
+Try Again
+Rectangle Pattern
+Max Score: 20
+
+Users Tried: 9660
+
+Success Rate: 97.19%
+
+Try Again
+Triangle Pattern
+Max Score: 20
+
+Users Tried: 9122
+
+Success Rate: 98.95%
+
+Try Again
+Floyd Pattern - 1
+Max Score: 20
+
+Users Tried: 11680
+
+Success Rate: 98.97%
+
+Try Again
+Floyd Pattern - 2
+Max Score: 20
+
+Users Tried: 8237
+
+Success Rate: 95.19%
+
+Try Again
+Half Diamond
+Max Score: 20
+
+Users Tried: 10207
+
+Success Rate: 99%
+
+Try Again
+Half Diamond with Numbers
+Max Score: 20
+
+Users Tried: 7796
+
+Success Rate: 98.97%
+
+Try Again
+Inverted Pyramid
+Max Score: 20
+
+Users Tried: 8216
+
+Success Rate: 95.06%
+
+Try Again
+Pyramid Pattern
+Max Score: 20
+
+Users Tried: 9493
+
+Success Rate: 97.69%
+
+Try Again
+Palindromic Pattern
+Max Score: 20
+
+Users Tried: 7839
+
+Success Rate: 97.58%
+
+Try Again
+Multiplication Table
+Max Score: 20
+
+Users Tried: 11113
+
+Success Rate: 98.74%
+
+Try Again
+Reverse String
+Max Score: 20
+
+Users Tried: 10998
+
+Success Rate: 98.68%
+
+Try Again
+Odd Even Index
+Max Score: 20
+
+Users Tried: 9454
+
+Success Rate: 98.66%
+
+Try Again
+Toggle Case
+Max Score: 20
+
+Users Tried: 9154
+
+Success Rate: 99.12%
+
+Try Again
+Vowels and Consonants
+Max Score: 20
+
+Users Tried: 9607
+
+Success Rate: 96.88%
+
+Try Again
+Letter Coverage
+Max Score: 20
+
+Users Tried: 6815
+
+Success Rate: 87.97%
+
+Try Again
+Digit String
+Max Score: 20
+
+Users Tried: 8886
+
+Success Rate: 96.13%
+
+Try Again
+Digits Sum
+Max Score: 20
+
+Users Tried: 10643
+
+Success Rate: 88.79%
+
+Try Again
+Strong Password
+Max Score: 20
+
+Users Tried: 4362
+
+Success Rate: 80.88%
+
+Try Again
+Anagram Basic
+Max Score: 20
+
+Users Tried: 4683
+
+Success Rate: 94.53%
+
+Try Again
+Compress String
+Max Score: 20
+
+Users Tried: 6989
+
+Success Rate: 95.66%
+
+Try Again
+Prefix Suffix Equality
+Max Score: 20
+
+Users Tried: 4655
+
+Success Rate: 93.3%
+
+Try Again
+Longest Prefix Suffix
+Max Score: 20
+
+Users Tried: 4761
+
+Success Rate: 88.57%
+
+Try Again

@@ -12,7 +12,7 @@ def get_submissions(problem_link):
         "sleep 6",
         "xdotool mousemove 240 290 && xdotool click 1 && sleep 1 && xdotool key Ctrl+s && sleep 1",
         "wmctrl -a all files && sleep 1 && xdotool type \"hive_file_mhtml\" && xdotool key Return",
-        "sleep 3 && wmctrl -c thehive"
+        "sleep 5 && wmctrl -c thehive && sleep 1"
     ]
     for command in commands:
         subprocess.run(command, shell=True)
@@ -23,7 +23,8 @@ def submission_page_from_downloads():
 def remove_after_fourth_multipartboundary(file_path):
     with open(file_path, 'r') as file:
         contents = file.read()
-    pattern = r'^(.*?(?:\r?\n--.*?multipartboundary.*?){2})'
+    #  single_line = ''.join([line.strip() for line in lines])
+    pattern = r'^(.*?(?:\r?\n--.*?multipartboundary.*?){3})'
     match = re.search(pattern, contents, re.DOTALL | re.IGNORECASE)
     if match:
         with open(file_path, 'w') as file:
@@ -32,41 +33,44 @@ def remove_after_fourth_multipartboundary(file_path):
         with open(file_path, 'w') as file:
             file.write(contents)
 
-def get_links_and_scores(file_path: str) -> List[Tuple[str, int]]:
-    link_score_pairs = []
-    try:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            content = file.read()
-        
-        cleaned_content = re.sub(r'<.*?>', '', content, flags=re.DOTALL).replace('=', '')
-        pattern = re.compile(r'(\d+)\s+View\s+launch', flags=re.DOTALL)
-        scores = [int(match) for match in pattern.findall(cleaned_content)]
-        
-        pattern = r'https:\/\/hive\.smartinterviews\.in\/submission\/[a-zA-Z0-9=\r\n]*'
-        links = [url.replace('=', '').replace('\n', '') for url in re.findall(pattern, content)]
-        
-        link_score_pairs = list(zip(links, scores))
-    except IOError as e:
-        print(f"Error reading file: {e}")
-    except Exception as e:
-        print(f"An error occurred: {e}")
-    
+def get_links_and_scores(problem_url: str) -> List[Tuple[str, int]]:
+    file_path = "current_submissions_page.mhtml"
+    # [^N][^N]\d.<.td>
+    replace_chars = "</td> "
+    def get_scores(file_path=file_path, pattern=r'[^N][^N]\d.<.td>'):
+        matches = []
+        with open(file_path, 'r') as file:
+            for line in file:
+                match = re.search(pattern, line)
+                if match:
+                    text = match.group()
+                    for char in replace_chars:
+                        text = text.replace(char, "")
+                    matches.append(text)
+        return matches
+    def get_links(file_path=file_path, pattern=r''):
+        with open('file.txt', 'r') as file:
+            content = file.read().replace('=', '').replace('\n', '')
+        return matches
+    list_scores = get_scores()
+    list_links = get_links()
+    link_score_pairs = list(zip(list_scores, list_links))
     return link_score_pairs
 
-def choose_link(links_and_scores: List[Tuple[str, int]], max_score: int) -> str:
-    for link, score in links_and_scores:
-        if score == max_score:
-            return link
-    return max(links_and_scores, key=lambda x: x[1])[0] if links_and_scores else ''
 
+def choose_link(links_and_scores: List[Tuple[str, int]], max_score: int) -> str:
+    max_score_links = [link for link, score in links_and_scores if score == max_score]
+    if max_score_links:
+        return max_score_links[0]  # Return the first link with max_score
+    return max(links_and_scores, key=lambda x: x[1])[0] if links_and_scores else ''
 
 def get_solution_to_raw_code_folder(prob_name, sol_link):
     file_name = rewrite_name(prob_name)
+    print("---------", sol_link)
     commands = [
         f"microsoft-edge {sol_link}",
         "sleep 5",
-        "wmctrl -r thehive -e \"0,945,0,990,1070\" && sleep 0.5",
-        "xdotool mousemove 950 470 && xdotool click 1 && sleep 0.5",
+        "xdotool mousemove 800 550 && sleep 0.5 && xdotool click 1 && sleep 0.5",
         "xdotool key Ctrl+a && xdotool key Ctrl+c",
         f"xclip -o > solutions/raw_code/{file_name}.py"
     ]
@@ -81,11 +85,11 @@ if __name__ == "__main__":
         for row in csvreader:
             si_all_info.append(row)   # returns (name, score, link)
     for problem_info in si_all_info:
-        print(problem_info)
+        print("----------", problem_info)
         get_submissions(problem_info[2])
         submission_page_from_downloads()
         remove_after_fourth_multipartboundary('current_submissions_page.mhtml')
         choice = choose_link(get_links_and_scores('current_submissions_page.mhtml'), max_score=int(problem_info[1]))
-        print("choice = ", choice)
+        print("\nchoice = ", choice)
         get_solution_to_raw_code_folder(problem_info[0], choice)
 

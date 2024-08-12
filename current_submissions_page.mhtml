@@ -1,58 +1,58 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/number-distribution?page=0
 Subject: TheHive
-Date: Mon, 12 Aug 2024 00:16:27 +0530
+Date: Mon, 12 Aug 2024 00:58:56 +0530
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--e84Mx4HQYTYBjd1vXAnUAgqzioROCilAd9CTuCjv2B----"
+	boundary="----MultipartBoundary--BQorjGd8niHN9UyOJztiEuHvPDZ3VpLurKeLTifhoj----"
 
 
-------MultipartBoundary--e84Mx4HQYTYBjd1vXAnUAgqzioROCilAd9CTuCjv2B----
+------MultipartBoundary--BQorjGd8niHN9UyOJztiEuHvPDZ3VpLurKeLTifhoj----
 Content-Type: text/html
-Content-ID: <frame-025D3BB2F5F4DF55163B797A0AB22AA4@mhtml.blink>
+Content-ID: <frame-BE2B103541FC7B4E894DC950578EF530@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/number-distribution?page=0
 
 <!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
 ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
-css" href=3D"cid:css-bd6268cb-5b51-4965-b3b6-20d47c0e3255@mhtml.blink" /><l=
-ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-3e81805e-e9bb-4e44=
--9627-7084ad504452@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
-" href=3D"cid:css-858cdeed-3e7d-4cf3-8b66-f2ee69a45316@mhtml.blink" /><link=
- rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-d6532bc1-51ce-47f7-8c=
-3a-53f4881b233e@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
-ref=3D"cid:css-00cbd204-147c-413a-aed6-50ad667815b4@mhtml.blink" /><link re=
-l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-d89c15ff-0845-4c82-8daa-=
-a7dc440aeb4a@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-7dd27a54-d881-488f-bb68-72f350eb8f9a@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-46c91537-899a-438c-905f-3=
-6efb3e6052d@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-13d54fe7-ba18-434d-aa63-02f1b37c8e13@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-b0af9a0a-00ce-4f1b-8d8d-b=
-a7fd632a0ad@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-8c744f16-bd5e-44bd-ae5b-6b26e39954d3@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-7aeebd33-6c2f-4bd3-ad59-7=
-b5e73b16285@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-3f92b624-5335-4dbd-98f6-80e273637d71@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-163bdb16-fad2-4e4b-aacf-6=
-efe3f725995@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-27b349f7-c1b7-4192-9327-617e8742cf9e@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-6daa0e1f-0566-4e68-8bfc-d=
-106dfbee864@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-0fd0afbc-a06d-4716-9ac7-afaa03da9dea@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-6ba34e88-3f02-4992-be9e-1=
-2a683790bb0@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-685c13f7-fc2c-4c2e-a6e6-62324bb33bc4@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-852ff653-6dc3-47ac-bb5b-1=
-0604bd34ecb@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-36ec8307-0061-4350-9d96-66baf31ce155@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-32a9a4b4-b2c1-4e35-aba0-a=
-262901e2aa5@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-1dd611ca-fac0-481a-a907-7a08466104e9@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-46bcce85-4c27-4469-adc4-e=
-32a8ce44153@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-e8135ae2-da42-45f6-9ae3-26a27295b2ac@mhtml.blink" />
+css" href=3D"cid:css-d358a88d-70d6-404d-b301-2795ebb47098@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-29ae29c0-e5bb-40fa=
+-8e6f-cba266835817@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-8dcfd9eb-490b-45bf-922c-253c1fce8ea9@mhtml.blink" /><link=
+ rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-3bd52d33-0270-45d1-90=
+0a-dd6292024d4d@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
+ref=3D"cid:css-1e745a2e-765a-4214-bde6-b3833c29b357@mhtml.blink" /><link re=
+l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-36ae2971-b3ea-4985-9f8f-=
+ccf4ec142c10@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-b80dbc30-2f33-4369-9b51-beba166d5853@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-398c2be3-312f-41c4-927e-4=
+b25623e4e30@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-e65733ad-dd41-44c5-9489-6dc32a767cc3@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-cbb2dc67-d0c3-4d48-8363-8=
+09133478927@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-0976f8e7-3f57-495d-a2f3-bd5898d596f6@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-92b4b275-1ff6-4bd8-8b5c-7=
+1e70ba74fc0@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-b09266fe-3d2c-4906-9e38-9d9cee9c501a@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-431b8b45-0887-48c9-a8ff-0=
+b66ca22a802@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-8ae8716b-9af0-445d-8e94-4df2aa20c444@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-5dca2617-dbde-4bb2-9f0b-8=
+cac18437cad@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-f80ff81f-a60a-4757-a1f5-67260c00397f@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-d4a9d2e3-0837-4b5c-9101-7=
+746083764fb@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-5816a80a-03e0-41e5-9491-d15f0b9b1265@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-1bcc7a22-b2f3-453b-bbca-f=
+6eea4dcb953@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-67b56914-f16a-4d05-812c-82578e640e2d@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-30485442-93d6-49f9-9952-3=
+c31be9cebe6@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-69cf85b7-a432-467e-af7b-8207965918cf@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-b53129f2-59a2-4664-90bc-1=
+b0c159f8334@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-0a19dc6a-f34e-4917-9f62-7124a340888a@mhtml.blink" />
 =09
 	<title>TheHive</title>
 	<base href=3D"https://hive.smartinterviews.in/">
@@ -71,32 +71,32 @@ tor/editor.main.css"><link rel=3D"stylesheet" href=3D"https://hive.smartint=
 erviews.in/styles.e9dc555095c358311fce.css"></head>
 
 <body class=3D"mat-typography">
-	<app-root _nghost-eir-c218=3D"" ng-version=3D"12.2.16"><div _ngcontent-eir=
--c218=3D"" class=3D"app-container"><layout-header _ngcontent-eir-c218=3D"" =
-_nghost-eir-c217=3D""><nav _ngcontent-eir-c217=3D"" class=3D"hive-nav"><div=
- _ngcontent-eir-c217=3D"" class=3D"container flex flex-wrap justify-between=
- items-center mx-auto"><div _ngcontent-eir-c217=3D"" class=3D"username"><ma=
-t-icon _ngcontent-eir-c217=3D"" role=3D"img" class=3D"mat-icon notranslate =
+	<app-root _nghost-abq-c218=3D"" ng-version=3D"12.2.16"><div _ngcontent-abq=
+-c218=3D"" class=3D"app-container"><layout-header _ngcontent-abq-c218=3D"" =
+_nghost-abq-c217=3D""><nav _ngcontent-abq-c217=3D"" class=3D"hive-nav"><div=
+ _ngcontent-abq-c217=3D"" class=3D"container flex flex-wrap justify-between=
+ items-center mx-auto"><div _ngcontent-abq-c217=3D"" class=3D"username"><ma=
+t-icon _ngcontent-abq-c217=3D"" role=3D"img" class=3D"mat-icon notranslate =
 material-icons mat-icon-no-color" aria-hidden=3D"true" data-mat-icon-type=
-=3D"font">person</mat-icon><span _ngcontent-eir-c217=3D"">Chaitu071</span><=
-/div><!----><div _ngcontent-eir-c217=3D"" class=3D"hive-logo"><b _ngcontent=
--eir-c217=3D"">THE HIVE <sup _ngcontent-eir-c217=3D"" class=3D"logo-beta">B=
-ETA</sup></b></div><div _ngcontent-eir-c217=3D"" class=3D"logout"> Logout <=
+=3D"font">person</mat-icon><span _ngcontent-abq-c217=3D"">Chaitu071</span><=
+/div><!----><div _ngcontent-abq-c217=3D"" class=3D"hive-logo"><b _ngcontent=
+-abq-c217=3D"">THE HIVE <sup _ngcontent-abq-c217=3D"" class=3D"logo-beta">B=
+ETA</sup></b></div><div _ngcontent-abq-c217=3D"" class=3D"logout"> Logout <=
 /div><!----><!----></div><!----></nav></layout-header><router-outlet _ngcon=
-tent-eir-c218=3D""></router-outlet><app-solve _nghost-eir-c216=3D"" class=
-=3D"ng-star-inserted"><div _ngcontent-eir-c216=3D"" class=3D"large-screen w=
-rapper"><div _ngcontent-eir-c216=3D"" class=3D"flex flex-row"><div _ngconte=
-nt-eir-c216=3D"" class=3D"left-side ng-star-inserted"><div _ngcontent-eir-c=
-216=3D"" class=3D"flex items-center"><div _ngcontent-eir-c216=3D"" class=3D=
+tent-abq-c218=3D""></router-outlet><app-solve _nghost-abq-c216=3D"" class=
+=3D"ng-star-inserted"><div _ngcontent-abq-c216=3D"" class=3D"large-screen w=
+rapper"><div _ngcontent-abq-c216=3D"" class=3D"flex flex-row"><div _ngconte=
+nt-abq-c216=3D"" class=3D"left-side ng-star-inserted"><div _ngcontent-abq-c=
+216=3D"" class=3D"flex items-center"><div _ngcontent-abq-c216=3D"" class=3D=
 "font-sans p-4 flex flex-wrap items-center ng-star-inserted" style=3D"width=
-: 50px;"><div _ngcontent-eir-c216=3D"" class=3D"text-3xl font-bold flex-1 p=
-x-4"><div _ngcontent-eir-c216=3D"" class=3D"flex justify-between items-cent=
-er"><div _ngcontent-eir-c216=3D"" class=3D"question-header ng-star-inserted=
-"><mat-icon _ngcontent-eir-c216=3D"" role=3D"img" class=3D"mat-icon notrans=
+: 50px;"><div _ngcontent-abq-c216=3D"" class=3D"text-3xl font-bold flex-1 p=
+x-4"><div _ngcontent-abq-c216=3D"" class=3D"flex justify-between items-cent=
+er"><div _ngcontent-abq-c216=3D"" class=3D"question-header ng-star-inserted=
+"><mat-icon _ngcontent-abq-c216=3D"" role=3D"img" class=3D"mat-icon notrans=
 late text-xl p-2 font-extrabold material-icons mat-icon-no-color" style=3D"=
 transform: scale(1.7); padding-top: 5px;" aria-hidden=3D"true" data-mat-ico=
 n-type=3D"font"> chevron_left </mat-icon></div><!----></div></div></div><!-=
----><!----></div><mat-tab-group _ngcontent-eir-c216=3D"" class=3D"mat-tab-g=
+---><!----></div><mat-tab-group _ngcontent-abq-c216=3D"" class=3D"mat-tab-g=
 roup mat-primary"><mat-tab-header class=3D"mat-tab-header"><div aria-hidden=
 =3D"true" mat-ripple=3D"" class=3D"mat-ripple mat-tab-header-pagination mat=
 -tab-header-pagination-before mat-elevation-z4 mat-tab-header-pagination-di=
@@ -129,161 +129,161 @@ class=3D"mat-tab-body ng-tns-c123-3 ng-star-inserted mat-tab-body-active" i=
 d=3D"mat-tab-content-0-1" aria-labelledby=3D"mat-tab-label-0-1"><div cdkscr=
 ollable=3D"" class=3D"mat-tab-body-content ng-tns-c123-3 ng-trigger ng-trig=
 ger-translateTab" style=3D"transform: none;"><app-submission-list _ngconten=
-t-eir-c216=3D"" _nghost-eir-c204=3D"" class=3D"ng-star-inserted"><div _ngco=
-ntent-eir-c204=3D"" class=3D"p-4"><div _ngcontent-eir-c204=3D"" class=3D"te=
-xt-center"><span _ngcontent-eir-c204=3D"" class=3D"refresh-button"><mat-ico=
-n _ngcontent-eir-c204=3D"" role=3D"img" class=3D"mat-icon notranslate mater=
+t-abq-c216=3D"" _nghost-abq-c204=3D"" class=3D"ng-star-inserted"><div _ngco=
+ntent-abq-c204=3D"" class=3D"p-4"><div _ngcontent-abq-c204=3D"" class=3D"te=
+xt-center"><span _ngcontent-abq-c204=3D"" class=3D"refresh-button"><mat-ico=
+n _ngcontent-abq-c204=3D"" role=3D"img" class=3D"mat-icon notranslate mater=
 ial-icons mat-icon-no-color" aria-hidden=3D"true" data-mat-icon-type=3D"fon=
-t">refresh</mat-icon><span _ngcontent-eir-c204=3D"">Refresh</span></span><b=
-r _ngcontent-eir-c204=3D""><small _ngcontent-eir-c204=3D"">Last Fetched At:=
- 8/12/24, 12:16 AM </small><!----></div><div _ngcontent-eir-c204=3D"" class=
-=3D"body-content ng-star-inserted" style=3D""><div _ngcontent-eir-c204=3D""=
-><div _ngcontent-eir-c204=3D"" class=3D"scrollable"><table _ngcontent-eir-c=
+t">refresh</mat-icon><span _ngcontent-abq-c204=3D"">Refresh</span></span><b=
+r _ngcontent-abq-c204=3D""><small _ngcontent-abq-c204=3D"">Last Fetched At:=
+ 8/12/24, 12:58 AM </small><!----></div><div _ngcontent-abq-c204=3D"" class=
+=3D"body-content ng-star-inserted" style=3D""><div _ngcontent-abq-c204=3D""=
+><div _ngcontent-abq-c204=3D"" class=3D"scrollable"><table _ngcontent-abq-c=
 204=3D"" mat-table=3D"" class=3D"mat-table cdk-table mat-elevation-z4" role=
-=3D"table"><thead role=3D"rowgroup"><tr _ngcontent-eir-c204=3D"" role=3D"ro=
+=3D"table"><thead role=3D"rowgroup"><tr _ngcontent-abq-c204=3D"" role=3D"ro=
 w" mat-header-row=3D"" class=3D"mat-header-row cdk-header-row ng-star-inser=
-ted"><th _ngcontent-eir-c204=3D"" role=3D"columnheader" mat-header-cell=3D"=
+ted"><th _ngcontent-abq-c204=3D"" role=3D"columnheader" mat-header-cell=3D"=
 " class=3D"mat-header-cell cdk-header-cell cdk-column-submittedAt mat-colum=
-n-submittedAt ng-star-inserted"> Date </th><th _ngcontent-eir-c204=3D"" rol=
+n-submittedAt ng-star-inserted"> Date </th><th _ngcontent-abq-c204=3D"" rol=
 e=3D"columnheader" mat-header-cell=3D"" class=3D"mat-header-cell cdk-header=
 -cell cdk-column-language mat-column-language ng-star-inserted"> Lang </th>=
-<th _ngcontent-eir-c204=3D"" role=3D"columnheader" mat-header-cell=3D"" cla=
+<th _ngcontent-abq-c204=3D"" role=3D"columnheader" mat-header-cell=3D"" cla=
 ss=3D"mat-header-cell cdk-header-cell cdk-column-verdict mat-column-verdict=
- ng-star-inserted"> Verdict </th><th _ngcontent-eir-c204=3D"" role=3D"colum=
+ ng-star-inserted"> Verdict </th><th _ngcontent-abq-c204=3D"" role=3D"colum=
 nheader" mat-header-cell=3D"" class=3D"mat-header-cell cdk-header-cell cdk-=
 column-score mat-column-score ng-star-inserted"> Score </th><th _ngcontent-=
-eir-c204=3D"" role=3D"columnheader" mat-header-cell=3D"" class=3D"mat-heade=
+abq-c204=3D"" role=3D"columnheader" mat-header-cell=3D"" class=3D"mat-heade=
 r-cell cdk-header-cell cdk-column-code mat-column-code ng-star-inserted" st=
 yle=3D"text-align: center;"> Code </th><!----></tr><!----></thead><tbody ro=
-le=3D"rowgroup"><tr _ngcontent-eir-c204=3D"" role=3D"row" mat-row=3D"" clas=
-s=3D"mat-row cdk-row ng-star-inserted"><td _ngcontent-eir-c204=3D"" role=3D=
+le=3D"rowgroup"><tr _ngcontent-abq-c204=3D"" role=3D"row" mat-row=3D"" clas=
+s=3D"mat-row cdk-row ng-star-inserted"><td _ngcontent-abq-c204=3D"" role=3D=
 "cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-column-submittedAt mat-=
 column-submittedAt ng-star-inserted"> 8/11/24, 11:42 PM </td><td _ngcontent=
--eir-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-c=
+-abq-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-c=
 olumn-language mat-column-language ng-star-inserted"> PYTHON3 </td><td _ngc=
-ontent-eir-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell=
+ontent-abq-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell=
  cdk-column-verdict mat-column-verdict ng-star-inserted"> Wrong </td><td _n=
-gcontent-eir-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-ce=
+gcontent-abq-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-ce=
 ll cdk-column-score mat-column-score ng-star-inserted"> 0 </td><td _ngconte=
-nt-eir-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk=
--column-code mat-column-code ng-star-inserted"><div _ngcontent-eir-c204=3D"=
-" class=3D"flex justify-center items-center"><a _ngcontent-eir-c204=3D"" ta=
+nt-abq-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk=
+-column-code mat-column-code ng-star-inserted"><div _ngcontent-abq-c204=3D"=
+" class=3D"flex justify-center items-center"><a _ngcontent-abq-c204=3D"" ta=
 rget=3D"_blank" class=3D"flex justify-center items-center" style=3D"text-de=
 coration: none;" href=3D"https://hive.smartinterviews.in/submission/66b8ff0=
-aba9b04c264042977"><button _ngcontent-eir-c204=3D"" mat-raised-button=3D"" =
+aba9b04c264042977"><button _ngcontent-abq-c204=3D"" mat-raised-button=3D"" =
 class=3D"mat-focus-indicator mat-raised-button mat-button-base"><span class=
-=3D"mat-button-wrapper"> View <mat-icon _ngcontent-eir-c204=3D"" role=3D"im=
+=3D"mat-button-wrapper"> View <mat-icon _ngcontent-abq-c204=3D"" role=3D"im=
 g" class=3D"mat-icon notranslate material-icons mat-icon-no-color" style=3D=
 "font-size: 16px;" aria-hidden=3D"true" data-mat-icon-type=3D"font">launch<=
 /mat-icon></span><span matripple=3D"" class=3D"mat-ripple mat-button-ripple=
 "></span><span class=3D"mat-button-focus-overlay"></span></button></a><butt=
-on _ngcontent-eir-c204=3D"" mat-raised-button=3D"" class=3D"mat-focus-indic=
+on _ngcontent-abq-c204=3D"" mat-raised-button=3D"" class=3D"mat-focus-indic=
 ator mat-raised-button mat-button-base"><span class=3D"mat-button-wrapper">=
  Edit </span><span matripple=3D"" class=3D"mat-ripple mat-button-ripple"></=
 span><span class=3D"mat-button-focus-overlay"></span></button></div></td><!=
-----></tr><tr _ngcontent-eir-c204=3D"" role=3D"row" mat-row=3D"" class=3D"m=
-at-row cdk-row ng-star-inserted"><td _ngcontent-eir-c204=3D"" role=3D"cell"=
+----></tr><tr _ngcontent-abq-c204=3D"" role=3D"row" mat-row=3D"" class=3D"m=
+at-row cdk-row ng-star-inserted"><td _ngcontent-abq-c204=3D"" role=3D"cell"=
  mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-column-submittedAt mat-column=
--submittedAt ng-star-inserted"> 8/11/24, 11:39 PM </td><td _ngcontent-eir-c=
+-submittedAt ng-star-inserted"> 8/11/24, 11:39 PM </td><td _ngcontent-abq-c=
 204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-column-=
 language mat-column-language ng-star-inserted"> PYTHON3 </td><td _ngcontent=
--eir-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-c=
+-abq-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-c=
 olumn-verdict mat-column-verdict ng-star-inserted"> Wrong </td><td _ngconte=
-nt-eir-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk=
--column-score mat-column-score ng-star-inserted"> 0 </td><td _ngcontent-eir=
+nt-abq-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk=
+-column-score mat-column-score ng-star-inserted"> 0 </td><td _ngcontent-abq=
 -c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-colum=
-n-code mat-column-code ng-star-inserted"><div _ngcontent-eir-c204=3D"" clas=
-s=3D"flex justify-center items-center"><a _ngcontent-eir-c204=3D"" target=
+n-code mat-column-code ng-star-inserted"><div _ngcontent-abq-c204=3D"" clas=
+s=3D"flex justify-center items-center"><a _ngcontent-abq-c204=3D"" target=
 =3D"_blank" class=3D"flex justify-center items-center" style=3D"text-decora=
 tion: none;" href=3D"https://hive.smartinterviews.in/submission/66b8fe69201=
-366c26a8e97d7"><button _ngcontent-eir-c204=3D"" mat-raised-button=3D"" clas=
+366c26a8e97d7"><button _ngcontent-abq-c204=3D"" mat-raised-button=3D"" clas=
 s=3D"mat-focus-indicator mat-raised-button mat-button-base"><span class=3D"=
-mat-button-wrapper"> View <mat-icon _ngcontent-eir-c204=3D"" role=3D"img" c=
+mat-button-wrapper"> View <mat-icon _ngcontent-abq-c204=3D"" role=3D"img" c=
 lass=3D"mat-icon notranslate material-icons mat-icon-no-color" style=3D"fon=
 t-size: 16px;" aria-hidden=3D"true" data-mat-icon-type=3D"font">launch</mat=
 -icon></span><span matripple=3D"" class=3D"mat-ripple mat-button-ripple"></=
 span><span class=3D"mat-button-focus-overlay"></span></button></a><button _=
-ngcontent-eir-c204=3D"" mat-raised-button=3D"" class=3D"mat-focus-indicator=
+ngcontent-abq-c204=3D"" mat-raised-button=3D"" class=3D"mat-focus-indicator=
  mat-raised-button mat-button-base"><span class=3D"mat-button-wrapper"> Edi=
 t </span><span matripple=3D"" class=3D"mat-ripple mat-button-ripple"></span=
 ><span class=3D"mat-button-focus-overlay"></span></button></div></td><!----=
-></tr><tr _ngcontent-eir-c204=3D"" role=3D"row" mat-row=3D"" class=3D"mat-r=
-ow cdk-row ng-star-inserted"><td _ngcontent-eir-c204=3D"" role=3D"cell" mat=
+></tr><tr _ngcontent-abq-c204=3D"" role=3D"row" mat-row=3D"" class=3D"mat-r=
+ow cdk-row ng-star-inserted"><td _ngcontent-abq-c204=3D"" role=3D"cell" mat=
 -cell=3D"" class=3D"mat-cell cdk-cell cdk-column-submittedAt mat-column-sub=
-mittedAt ng-star-inserted"> 3/29/24, 9:07 AM </td><td _ngcontent-eir-c204=
+mittedAt ng-star-inserted"> 3/29/24, 9:07 AM </td><td _ngcontent-abq-c204=
 =3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-column-lan=
-guage mat-column-language ng-star-inserted"> PYTHON3 </td><td _ngcontent-ei=
-r-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-colu=
+guage mat-column-language ng-star-inserted"> PYTHON3 </td><td _ngcontent-ab=
+q-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-colu=
 mn-verdict mat-column-verdict ng-star-inserted"> Accepted </td><td _ngconte=
-nt-eir-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk=
--column-score mat-column-score ng-star-inserted"> 20 </td><td _ngcontent-ei=
-r-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-colu=
-mn-code mat-column-code ng-star-inserted"><div _ngcontent-eir-c204=3D"" cla=
-ss=3D"flex justify-center items-center"><a _ngcontent-eir-c204=3D"" target=
+nt-abq-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk=
+-column-score mat-column-score ng-star-inserted"> 20 </td><td _ngcontent-ab=
+q-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-colu=
+mn-code mat-column-code ng-star-inserted"><div _ngcontent-abq-c204=3D"" cla=
+ss=3D"flex justify-center items-center"><a _ngcontent-abq-c204=3D"" target=
 =3D"_blank" class=3D"flex justify-center items-center" style=3D"text-decora=
 tion: none;" href=3D"https://hive.smartinterviews.in/submission/6606375fec9=
-02dcd842fe620"><button _ngcontent-eir-c204=3D"" mat-raised-button=3D"" clas=
+02dcd842fe620"><button _ngcontent-abq-c204=3D"" mat-raised-button=3D"" clas=
 s=3D"mat-focus-indicator mat-raised-button mat-button-base"><span class=3D"=
-mat-button-wrapper"> View <mat-icon _ngcontent-eir-c204=3D"" role=3D"img" c=
+mat-button-wrapper"> View <mat-icon _ngcontent-abq-c204=3D"" role=3D"img" c=
 lass=3D"mat-icon notranslate material-icons mat-icon-no-color" style=3D"fon=
 t-size: 16px;" aria-hidden=3D"true" data-mat-icon-type=3D"font">launch</mat=
 -icon></span><span matripple=3D"" class=3D"mat-ripple mat-button-ripple"></=
 span><span class=3D"mat-button-focus-overlay"></span></button></a><button _=
-ngcontent-eir-c204=3D"" mat-raised-button=3D"" class=3D"mat-focus-indicator=
+ngcontent-abq-c204=3D"" mat-raised-button=3D"" class=3D"mat-focus-indicator=
  mat-raised-button mat-button-base"><span class=3D"mat-button-wrapper"> Edi=
 t </span><span matripple=3D"" class=3D"mat-ripple mat-button-ripple"></span=
 ><span class=3D"mat-button-focus-overlay"></span></button></div></td><!----=
 ></tr><!----><!----></tbody><tfoot role=3D"rowgroup" class=3D"mat-table-sti=
 cky" style=3D"display: none; bottom: 0px; z-index: 10;"><!----></tfoot></ta=
 ble></div></div></div><!----></div></app-submission-list><!----></div></mat=
--tab-body><!----></div></mat-tab-group></div><!----><div _ngcontent-eir-c21=
+-tab-body><!----></div></mat-tab-group></div><!----><div _ngcontent-abq-c21=
 6=3D"" adjustablesplitpane=3D"" direction=3D"horizontal" class=3D"resizer n=
-g-star-inserted"><div _ngcontent-eir-c216=3D"" class=3D"dot"></div><div _ng=
-content-eir-c216=3D"" class=3D"dot"></div><div _ngcontent-eir-c216=3D"" cla=
-ss=3D"dot"></div></div><!----><!----><div _ngcontent-eir-c216=3D"" class=3D=
-"problem-editor"><app-editor _ngcontent-eir-c216=3D"" _nghost-eir-c215=3D""=
- class=3D"ng-star-inserted"><div _ngcontent-eir-c215=3D"" class=3D"editor-w=
-rapper"><form _ngcontent-eir-c215=3D"" novalidate=3D"" class=3D"form-contai=
-ner ng-untouched ng-pristine ng-valid"><div _ngcontent-eir-c215=3D"" fxlayo=
+g-star-inserted"><div _ngcontent-abq-c216=3D"" class=3D"dot"></div><div _ng=
+content-abq-c216=3D"" class=3D"dot"></div><div _ngcontent-abq-c216=3D"" cla=
+ss=3D"dot"></div></div><!----><!----><div _ngcontent-abq-c216=3D"" class=3D=
+"problem-editor"><app-editor _ngcontent-abq-c216=3D"" _nghost-abq-c215=3D""=
+ class=3D"ng-star-inserted"><div _ngcontent-abq-c215=3D"" class=3D"editor-w=
+rapper"><form _ngcontent-abq-c215=3D"" novalidate=3D"" class=3D"form-contai=
+ner ng-untouched ng-pristine ng-valid"><div _ngcontent-abq-c215=3D"" fxlayo=
 ut=3D"row" fxlayoutgap=3D"5px" class=3D"options" style=3D"flex-direction: r=
-ow; box-sizing: border-box; display: flex;"><div _ngcontent-eir-c215=3D"" f=
+ow; box-sizing: border-box; display: flex;"><div _ngcontent-abq-c215=3D"" f=
 xlayout=3D"row" fxlayoutgap=3D"5px" style=3D"margin-right: 5px; flex-direct=
-ion: row; box-sizing: border-box; display: flex;"><div _ngcontent-eir-c215=
+ion: row; box-sizing: border-box; display: flex;"><div _ngcontent-abq-c215=
 =3D"" fxflex=3D"30px" class=3D"reset-icon" style=3D"margin-right: 5px; flex=
 : 1 1 30px; box-sizing: border-box; max-width: 30px; min-width: 30px;"><mat=
--icon _ngcontent-eir-c215=3D"" role=3D"img" mattooltip=3D"Reset your code" =
+-icon _ngcontent-abq-c215=3D"" role=3D"img" mattooltip=3D"Reset your code" =
 mattooltipposition=3D"right" class=3D"mat-icon notranslate mat-tooltip-trig=
 ger material-icons mat-icon-no-color" aria-hidden=3D"true" data-mat-icon-ty=
 pe=3D"font" aria-describedby=3D"cdk-describedby-message-0" cdk-describedby-=
-host=3D"">restart_alt</mat-icon><!----></div><div _ngcontent-eir-c215=3D"" =
+host=3D"">restart_alt</mat-icon><!----></div><div _ngcontent-abq-c215=3D"" =
 fxflex=3D"" class=3D"reset-icon" style=3D"margin-right: 5px; flex: 1 1 0%; =
-box-sizing: border-box;"><mat-icon _ngcontent-eir-c215=3D"" role=3D"img" ma=
+box-sizing: border-box;"><mat-icon _ngcontent-abq-c215=3D"" role=3D"img" ma=
 ttooltip=3D"Editor Settings" mattooltipposition=3D"right" class=3D"mat-icon=
  notranslate mat-tooltip-trigger material-icons mat-icon-no-color" aria-hid=
 den=3D"true" data-mat-icon-type=3D"font" aria-describedby=3D"cdk-describedb=
 y-message-1" cdk-describedby-host=3D"">settings</mat-icon><!----></div><div=
- _ngcontent-eir-c215=3D"" fxflex=3D"" class=3D"reset-icon ng-star-inserted"=
+ _ngcontent-abq-c215=3D"" fxflex=3D"" class=3D"reset-icon ng-star-inserted"=
  style=3D"flex: 1 1 0%; box-sizing: border-box; margin-right: 5px;"><button=
- _ngcontent-eir-c215=3D"" mat-icon-button=3D"" class=3D"mat-focus-indicator=
+ _ngcontent-abq-c215=3D"" mat-icon-button=3D"" class=3D"mat-focus-indicator=
  mat-icon-button mat-button-base" style=3D"margin-top: -10px;"><span class=
-=3D"mat-button-wrapper"><mat-icon _ngcontent-eir-c215=3D"" role=3D"img" mat=
+=3D"mat-button-wrapper"><mat-icon _ngcontent-abq-c215=3D"" role=3D"img" mat=
 tooltip=3D"Save Code Template" mattooltipposition=3D"right" class=3D"mat-ic=
 on notranslate mat-tooltip-trigger material-icons mat-icon-no-color" aria-h=
 idden=3D"true" data-mat-icon-type=3D"font" aria-describedby=3D"cdk-describe=
 dby-message-5" cdk-describedby-host=3D"">save</mat-icon><!----></span><span=
  matripple=3D"" class=3D"mat-ripple mat-button-ripple mat-button-ripple-rou=
 nd"></span><span class=3D"mat-button-focus-overlay"></span></button></div><=
-!----><div _ngcontent-eir-c215=3D"" class=3D"mat-tooltip-trigger score-box"=
+!----><div _ngcontent-abq-c215=3D"" class=3D"mat-tooltip-trigger score-box"=
  aria-describedby=3D"cdk-describedby-message-6" cdk-describedby-host=3D"" s=
-tyle=3D"color: rgb(5, 150, 105);"><div _ngcontent-eir-c215=3D"">Score: 20 /=
- 20</div></div><!----></div><div _ngcontent-eir-c215=3D"" style=3D"flex-dir=
-ection: row; box-sizing: border-box; display: flex;"><div _ngcontent-eir-c2=
-15=3D"" class=3D"font-sans"><div _ngcontent-eir-c215=3D"" class=3D"incremen=
-tal-timer ng-star-inserted"><!----><h2 _ngcontent-eir-c215=3D"" mattooltipp=
+tyle=3D"color: rgb(5, 150, 105);"><div _ngcontent-abq-c215=3D"">Score: 20 /=
+ 20</div></div><!----></div><div _ngcontent-abq-c215=3D"" style=3D"flex-dir=
+ection: row; box-sizing: border-box; display: flex;"><div _ngcontent-abq-c2=
+15=3D"" class=3D"font-sans"><div _ngcontent-abq-c215=3D"" class=3D"incremen=
+tal-timer ng-star-inserted"><!----><h2 _ngcontent-abq-c215=3D"" mattooltipp=
 osition=3D"above" mattooltip=3D"Time taken to solve the problem" class=3D"m=
 at-tooltip-trigger ng-star-inserted" aria-describedby=3D"cdk-describedby-me=
 ssage-8" cdk-describedby-host=3D""> 03 mins : 37 secs</h2><!----><!----></d=
-iv><!----><!----></div><mat-form-field _ngcontent-eir-c215=3D"" fxflex=3D"1=
+iv><!----><!----></div><mat-form-field _ngcontent-abq-c215=3D"" fxflex=3D"1=
 25px" appearance=3D"standard" class=3D"mat-form-field ng-tns-c66-4 mat-prim=
 ary mat-form-field-type-mat-select mat-form-field-appearance-standard mat-f=
 orm-field-can-float mat-form-field-has-label ng-untouched ng-pristine ng-va=
@@ -291,7 +291,7 @@ lid ng-star-inserted mat-form-field-should-float" style=3D"flex: 1 1 125px;=
  box-sizing: border-box; max-width: 125px; min-width: 125px;"><div class=3D=
 "mat-form-field-wrapper ng-tns-c66-4"><div class=3D"mat-form-field-flex ng-=
 tns-c66-4"><!----><!----><div class=3D"mat-form-field-infix ng-tns-c66-4"><=
-mat-select _ngcontent-eir-c215=3D"" role=3D"combobox" aria-autocomplete=3D"=
+mat-select _ngcontent-abq-c215=3D"" role=3D"combobox" aria-autocomplete=3D"=
 none" aria-haspopup=3D"true" formcontrolname=3D"language" class=3D"mat-sele=
 ct ng-tns-c79-5 ng-tns-c66-4 ng-untouched ng-pristine ng-valid ng-star-inse=
 rted" aria-labelledby=3D"mat-form-field-label-3 mat-select-value-3" id=3D"m=
@@ -306,7 +306,7 @@ at-select-arrow ng-tns-c79-5"></div></div></div><!----></mat-select><span c=
 lass=3D"mat-form-field-label-wrapper ng-tns-c66-4"><label class=3D"mat-form=
 -field-label ng-tns-c66-4 ng-star-inserted" id=3D"mat-form-field-label-3" f=
 or=3D"mat-select-2" aria-owns=3D"mat-select-2"><!----><mat-label _ngcontent=
--eir-c215=3D"" class=3D"ng-tns-c66-4 ng-star-inserted">Language</mat-label>=
+-abq-c215=3D"" class=3D"ng-tns-c66-4 ng-star-inserted">Language</mat-label>=
 <!----><!----></label><!----></span></div><!----></div><div class=3D"mat-fo=
 rm-field-underline ng-tns-c66-4 ng-star-inserted"><span class=3D"mat-form-f=
 ield-ripple ng-tns-c66-4"></span></div><!----><div class=3D"mat-form-field-=
@@ -314,9 +314,9 @@ subscript-wrapper ng-tns-c66-4"><!----><div class=3D"mat-form-field-hint-wr=
 apper ng-tns-c66-4 ng-trigger ng-trigger-transitionMessages ng-star-inserte=
 d" style=3D"opacity: 1; transform: translateY(0%);"><!----><div class=3D"ma=
 t-form-field-hint-spacer ng-tns-c66-4"></div></div><!----></div></div></mat=
--form-field></div></div><ngx-monaco-editor _ngcontent-eir-c215=3D"" id=3D"e=
+-form-field></div></div><ngx-monaco-editor _ngcontent-abq-c215=3D"" id=3D"e=
 ditor" formcontrolname=3D"code" class=3D"my-code-editor ng-untouched ng-pri=
-stine ng-valid" _nghost-eir-c28=3D""><div _ngcontent-eir-c28=3D"" class=3D"=
+stine ng-valid" _nghost-abq-c28=3D""><div _ngcontent-abq-c28=3D"" class=3D"=
 editor-container" data-keybinding-context=3D"1" data-mode-id=3D"python" sty=
 le=3D"--codelens-font-features_ee1f61: &quot;liga&quot; off, &quot;calt&quo=
 t; off;"><div class=3D"monaco-editor no-user-select  showUnused showDepreca=
@@ -417,45 +417,45 @@ uot;; font-weight: normal; font-size: 16px; background-color: rgb(60, 60, 6=
 le=3D"font-size: 12.8px;">Enter to Rename, Shift+Enter to Preview</div></di=
 v></div><div class=3D"context-view" aria-hidden=3D"true" style=3D"display: =
 none;"></div></div></div></ngx-monaco-editor><!----><!----><div _ngcontent-=
-eir-c215=3D"" class=3D"solve-options"><div _ngcontent-eir-c215=3D"" class=
-=3D"console-button"><button _ngcontent-eir-c215=3D"" mat-raised-button=3D""=
+abq-c215=3D"" class=3D"solve-options"><div _ngcontent-abq-c215=3D"" class=
+=3D"console-button"><button _ngcontent-abq-c215=3D"" mat-raised-button=3D""=
  class=3D"mat-focus-indicator mat-raised-button mat-button-base"><span clas=
-s=3D"mat-button-wrapper">Console <mat-icon _ngcontent-eir-c215=3D"" role=3D=
+s=3D"mat-button-wrapper">Console <mat-icon _ngcontent-abq-c215=3D"" role=3D=
 "img" class=3D"mat-icon notranslate material-icons mat-icon-no-color" aria-=
 hidden=3D"true" data-mat-icon-type=3D"font">expand_less</mat-icon></span><s=
 pan matripple=3D"" class=3D"mat-ripple mat-button-ripple"></span><span clas=
-s=3D"mat-button-focus-overlay"></span></button><button _ngcontent-eir-c215=
+s=3D"mat-button-focus-overlay"></span></button><button _ngcontent-abq-c215=
 =3D"" mat-stroked-button=3D"" color=3D"accent" class=3D"mat-focus-indicator=
  raise-query mat-stroked-button mat-button-base mat-accent ng-star-inserted=
 "><span class=3D"mat-button-wrapper"> Raise Query </span><span matripple=3D=
 "" class=3D"mat-ripple mat-button-ripple"></span><span class=3D"mat-button-=
-focus-overlay"></span></button><!----></div><button _ngcontent-eir-c215=3D"=
+focus-overlay"></span></button><!----></div><button _ngcontent-abq-c215=3D"=
 " mat-stroked-button=3D"" color=3D"primary" mattooltip=3D"Ctrl + ;" mattool=
 tipclass=3D"custom-tooltip" class=3D"mat-focus-indicator mat-tooltip-trigge=
 r mat-stroked-button mat-button-base mat-primary" aria-describedby=3D"cdk-d=
 escribedby-message-2" cdk-describedby-host=3D""><span class=3D"mat-button-w=
 rapper">Run</span><span matripple=3D"" class=3D"mat-ripple mat-button-rippl=
 e"></span><span class=3D"mat-button-focus-overlay"></span></button><!----><=
-button _ngcontent-eir-c215=3D"" mat-raised-button=3D"" color=3D"primary" ma=
+button _ngcontent-abq-c215=3D"" mat-raised-button=3D"" color=3D"primary" ma=
 ttooltip=3D"Ctrl + '" mattooltipclass=3D"custom-tooltip" class=3D"mat-focus=
 -indicator mat-tooltip-trigger mat-raised-button mat-button-base mat-primar=
 y" aria-describedby=3D"cdk-describedby-message-3" cdk-describedby-host=3D""=
 ><span class=3D"mat-button-wrapper">Submit</span><span matripple=3D"" class=
 =3D"mat-ripple mat-button-ripple"></span><span class=3D"mat-button-focus-ov=
-erlay"></span></button><!----><button _ngcontent-eir-c215=3D"" mat-icon-but=
+erlay"></span></button><!----><button _ngcontent-abq-c215=3D"" mat-icon-but=
 ton=3D"" mattooltipposition=3D"left" mattooltip=3D"Notes" class=3D"mat-focu=
 s-indicator mat-tooltip-trigger notes-btn mat-icon-button mat-button-base n=
 g-star-inserted" aria-describedby=3D"cdk-describedby-message-7" cdk-describ=
-edby-host=3D""><span class=3D"mat-button-wrapper"><mat-icon _ngcontent-eir-=
+edby-host=3D""><span class=3D"mat-button-wrapper"><mat-icon _ngcontent-abq-=
 c215=3D"" role=3D"img" class=3D"mat-icon notranslate material-icons mat-ico=
 n-no-color ng-star-inserted" aria-hidden=3D"true" data-mat-icon-type=3D"fon=
 t">assignment</mat-icon><!----><!----></span><span matripple=3D"" class=3D"=
 mat-ripple mat-button-ripple mat-button-ripple-round"></span><span class=3D=
 "mat-button-focus-overlay"></span></button><!----><!----></div></form></div=
-></app-editor><!----><!----></div></div></div><div _ngcontent-eir-c216=3D""=
- class=3D"small-screen"><div _ngcontent-eir-c216=3D"" class=3D"flex justify=
--center pt-28 px-4"><div _ngcontent-eir-c216=3D"" class=3D"bg-gray-200 p-4 =
-rounded-lg"><h2 _ngcontent-eir-c216=3D"">Please note that contests are not =
+></app-editor><!----><!----></div></div></div><div _ngcontent-abq-c216=3D""=
+ class=3D"small-screen"><div _ngcontent-abq-c216=3D"" class=3D"flex justify=
+-center pt-28 px-4"><div _ngcontent-abq-c216=3D"" class=3D"bg-gray-200 p-4 =
+rounded-lg"><h2 _ngcontent-abq-c216=3D"">Please note that contests are not =
 compatible with lower width mobile devices. To enter, please use a PC. </h2=
 ></div></div></div></app-solve><!----></div></app-root>
 
@@ -479,4 +479,12 @@ ss=3D"monaco-alert" role=3D"alert" aria-atomic=3D"true"></div><div class=3D=
 "monaco-status" role=3D"complementary" aria-live=3D"polite" aria-atomic=3D"=
 true"></div><div class=3D"monaco-status" role=3D"complementary" aria-live=
 =3D"polite" aria-atomic=3D"true"></div></div></body></html>
+------MultipartBoundary--BQorjGd8niHN9UyOJztiEuHvPDZ3VpLurKeLTifhoj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d358a88d-70d6-404d-b301-2795ebb47098@mhtml.blink
+
+@charset "utf-8";
+
+.app-container[_ngcontent-abq-c218] { min-width: 100vw; min-height: 100vh; }
 ------MultipartBoundary

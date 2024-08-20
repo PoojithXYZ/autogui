@@ -1,27 +1,43 @@
-import re
+import pyautogui
+import time
+import pyperclip
 
-def get_links_and_scores(file_path) -> list:
-    link_score_pairs = []
-    def process_mhtml_file(file_path=file_path):
-        with open(file_path, 'r', encoding='utf-8') as file:
-            content = file.read()
-            cleaned_content = re.sub(r'<.*?>', '', content, flags=re.DOTALL).replace('=', '')
-            pattern = re.compile(r'(\d+)\s+View\s+launch', flags=re.DOTALL)
-            integers = [int(match) for match in pattern.findall(cleaned_content)]
-            return integers
-    def extract_submission_urls(file_path=file_path):
-        with open(file_path, 'r') as file:
-            contents = file.read()
-        pattern = r'https:\/\/hive\.smartinterviews\.in\/submission\/[a-zA-Z0-9=\r\n]*'
-        urls = re.findall(pattern, contents)
-        cleaned_urls = [url.replace('=', '').replace('\n', '') for url in urls]
-        return cleaned_urls
-    scores = process_mhtml_file()
-    links = extract_submission_urls()
-    for link, score in zip(links, scores):
-        link_score_pairs.append((link, score))
-    return link_score_pairs
+def move_and_click(x, y):
+    pyautogui.moveTo(x, y, duration=0.5)
+    pyautogui.click()
 
-# Call the function with the file path
-print(get_links_and_scores('hive_file_mhtml.mhtml'))
+def type_text(text):
+    pyautogui.write(text, interval=0.1)
 
+def get_submissions(problem_link):
+    try:
+        time.sleep(6)
+        pyautogui.hotkey('win', 'up')  # Assuming "thehive" is the top window
+        move_and_click(350, 250)
+        pyautogui.hotkey('ctrl', 's')
+        pyautogui.hotkey('win', 'd')  # Assuming "all files" is on the desktop
+        type_text("hive_file_mhtml")
+        pyautogui.press('enter')
+        pyautogui.hotkey('ctrl')
+        time.sleep(2.5)
+        pyautogui.hotkey('win', 'up')  # Bring "thehive" back to front
+        pyautogui.hotkey('win', 'r')
+        type_text(problem_link)
+        pyautogui.press('enter')
+        time.sleep(6)
+        pyautogui.hotkey('win', 'up')  # Bring "thehive" back to front
+        for _ in range(5):
+            move_and_click(800, 550)
+        pyautogui.hotkey('ctrl', 'a')
+        pyautogui.hotkey('ctrl', 'c')
+
+        # Save clipboard content to file
+        temp = "temp.py"  # Replace with your desired filename
+        with open(f"si_solutions/raw_code/{temp}", "w") as f:
+            f.write(pyperclip.paste())
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+# Example usage:
+problem_link = "https://hive.smartinterviews.in/submission/661516fb96bb0dcd9cd46cb0"
+get_submissions(problem_link)

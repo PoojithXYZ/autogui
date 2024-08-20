@@ -5,17 +5,8 @@ from typing import List, Tuple
 
 from csv_creation import rewrite_name
 
-def get_submissions(problem_link):
-    commands = [
-        "wmctrl -c thehive",
-        f"microsoft-edge {problem_link}",
-        "sleep 6",
-        "xdotool mousemove 240 290 && xdotool click 1 && sleep 1 && xdotool key Ctrl+s && sleep 1",
-        "wmctrl -a all files && sleep 1 && xdotool type \"hive_file_mhtml\" && xdotool key Return",
-        "sleep 5 && wmctrl -c thehive && sleep 1"
-    ]
-    for command in commands:
-        subprocess.run(command, shell=True)
+def get_submissions(problem_link, script_path="shell_scripts/get_submissions.sh"):
+    subprocess.run([script_path, problem_link])
 
 def submission_page_from_downloads():
     subprocess.run("mv ~/Downloads/hive_file_mhtml.mhtml current_submissions_page.mhtml", shell=True)
@@ -42,19 +33,25 @@ def get_links_and_scores(problem_url: str) -> List[Tuple[str, int]]:
         with open(file_path, 'r') as file:
             for line in file:
                 match = re.search(pattern, line)
-                if match:
+                if match: 
                     text = match.group()
                     for char in replace_chars:
                         text = text.replace(char, "")
                     matches.append(text)
         return matches
-    def get_links(file_path=file_path, pattern=r''):
-        with open('file.txt', 'r') as file:
+    def get_links(file_path='current_submissions_page.mhtml', pattern=r'href3D"(.*?)>'):
+        links = []
+        with open(file_path, 'r') as file:
             content = file.read().replace('=', '').replace('\n', '')
-        return matches
+        matches = re.findall(pattern, content)
+        for match in matches:
+            if "/submission/" in match:
+                links.append(match.replace('"', ''))
+        return links
     list_scores = get_scores()
     list_links = get_links()
-    link_score_pairs = list(zip(list_scores, list_links))
+    link_score_pairs = list(zip(list_links, list_scores))
+    print(link_score_pairs)
     return link_score_pairs
 
 
@@ -64,18 +61,12 @@ def choose_link(links_and_scores: List[Tuple[str, int]], max_score: int) -> str:
         return max_score_links[0]  # Return the first link with max_score
     return max(links_and_scores, key=lambda x: x[1])[0] if links_and_scores else ''
 
-def get_solution_to_raw_code_folder(prob_name, sol_link):
+def get_solution_to_raw_code_folder(prob_name, sol_link, script_one_path="shell_scripts/get_solution_to_raw_code_folder_one.sh", script_two_path="shell_scripts/get_solution_to_raw_code_folder_two.sh"):
     file_name = rewrite_name(prob_name)
-    print("---------", sol_link)
-    commands = [
-        f"microsoft-edge {sol_link}",
-        "sleep 5",
-        "xdotool mousemove 800 550 && sleep 0.5 && xdotool click 1 && sleep 0.5",
-        "xdotool key Ctrl+a && xdotool key Ctrl+c",
-        f"xclip -o > solutions/raw_code/{file_name}.py"
-    ]
-    for command in commands:
-        subprocess.run(command, shell=True)
+    print(f"Downloading solution for {prob_name}...")
+    subprocess.run([script_one_path, sol_link, file_name])
+    #subprocess.run([script_two_path, sol_link, file_name])
+    print(f"Solution saved as: si_solutions/raw_code/{file_name}.py")
 
 if __name__ == "__main__":
     si_all_info = []

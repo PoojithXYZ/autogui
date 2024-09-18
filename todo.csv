@@ -1,26 +1,8 @@
 Problem_Name,Max_Score,SI_Link
-number distribution,21,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/number-distribution?page=0&pageSize=100
-alternate seating,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/alternate-seating?page=0&pageSize=100
-implement merge sort,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/implement-merge-sort?page=0&pageSize=100
-implement binary search,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/implement-binary-search?page=0&pageSize=100
-super one,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/super-one?page=0&pageSize=100
-local max in matrix,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/local-max-in-matrix?page=0&pageSize=100
-catalan number,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/catalan-number?page=0&pageSize=100
-ncr basic,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/ncr-basic?page=0&pageSize=100
-applying modulus,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/applying-modulus?page=0&pageSize=100
-minimum subtraction,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/minimum-subtraction?page=0&pageSize=100
-a b and x,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/a-b-and-x?page=0&pageSize=100
-compound interest,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/compound-interest?page=0&pageSize=100
-arrange primes,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/arrange-primes?page=0&pageSize=100
-fuel tank,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/fuel-tank?page=0&pageSize=100
-number of rectangles,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/number-of-rectangles?page=0&pageSize=100
-point location,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/point-location?page=0&pageSize=100
-pascal's triangle,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/pascals-triangle?page=0&pageSize=100
-check the square string,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/check-the-square-string?page=0&pageSize=100
-balanced splitting,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/balanced-splitting?page=0&pageSize=100
-number of days,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/number-of-days?page=0&pageSize=100
-ab and cd,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/ab-and-cd?page=0&pageSize=100
-strings rotation,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/strings-rotation?page=0&pageSize=100
-long pressed keys,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/long-pressed-keys?page=0&pageSize=100
-string gcd,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/string-gcd?page=0&pageSize=100
-hashset operations,20,https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/hashset-operations?page=0&pageSize=100
+checkerboard pattern,50,https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/checkerboard-pattern?page=0&pageSize=100
+non divisible subsets,100,https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/non-divisible-subsets?page=0&pageSize=100
+clockwise rotation of array,50,https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/clockwise-rotation-of-array?page=0&pageSize=100
+implement stack,50,https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/implement-stack?page=0&pageSize=100
+collecting mangoes,100,https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/collecting-mangoes?page=0&pageSize=100
+implement queue,50,https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/implement-queue?page=0&pageSize=100
+implement deque,50,https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/implement-deque?page=0&pageSize=100

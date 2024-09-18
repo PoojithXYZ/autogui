@@ -26,7 +26,7 @@ def make_todo_list(problems = "chai_links.txt", done_Qs = "poo_links.txt", is_ba
 
 if __name__ == "__main__":
     #-----------------change params here only-----------------
-    new_todo_list = make_todo_list(is_basic = True)
+    new_todo_list = make_todo_list(is_basic = False)
     with open('todo.csv', 'w', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(["Problem_Name", "Max_Score", "SI_Link"])

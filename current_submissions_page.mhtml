@@ -1,58 +1,58 @@
 From: <Saved by Blink>
-Snapshot-Content-Location: https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/hashset-operations?page=0&pageSize=100
+Snapshot-Content-Location: https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/implement-deque?page=0&pageSize=100
 Subject: TheHive
-Date: Mon, 12 Aug 2024 21:11:32 +0530
+Date: Wed, 18 Sep 2024 17:16:23 +0530
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--X4P7DS0TfxAxX4Q88JP46XbwXMXPBhuvImNtbvfwOp----"
+	boundary="----MultipartBoundary--7ew5Xo5Ht6J7NCGjGoPsWtQvtNDE0WIAjnOk7HPx4v----"
 
 
-------MultipartBoundary--X4P7DS0TfxAxX4Q88JP46XbwXMXPBhuvImNtbvfwOp----
+------MultipartBoundary--7ew5Xo5Ht6J7NCGjGoPsWtQvtNDE0WIAjnOk7HPx4v----
 Content-Type: text/html
-Content-ID: <frame-8B82C193A126BC1EA8AAA1AD0730DC02@mhtml.blink>
+Content-ID: <frame-19010FA57639FA746A9424FB53E6E072@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/hashset-operations?page=0&pageSize=100
+Content-Location: https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/implement-deque?page=0&pageSize=100
 
 <!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
 ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
-css" href=3D"cid:css-a5940897-ba70-4ff2-831f-b1cbd0c0bd33@mhtml.blink" /><l=
-ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-d93887ab-ca47-4e31=
--af87-9c895c275c1a@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
-" href=3D"cid:css-a7bcf0b1-ec35-4418-9c07-c97d0d973416@mhtml.blink" /><link=
- rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-054a137b-c4ef-4523-b5=
-12-fe31ac5d311a@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
-ref=3D"cid:css-99d249ed-c004-4658-9090-aa72651b5983@mhtml.blink" /><link re=
-l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-4af9570a-3ded-4ec0-a48b-=
-148a95a06735@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-96166ef0-95e6-4263-a396-08d1c2b5c492@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-974bfa7c-d43d-4583-9dd1-9=
-e733c0d4e58@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-ae318917-77c4-4edc-b81d-f93d5bcd6510@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-a9003e1e-eac0-488a-9b7b-4=
-2d18f37cc99@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-bc76d356-a157-484b-b269-429d0a73c9d6@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-8ffb5767-b158-4dfa-9f06-b=
-b250eb40676@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-06cd2321-2460-48ab-abc0-1cc68b96cc56@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-315d3912-367d-43dc-979f-a=
-e4d78adead3@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-bae963ca-7e41-478f-97f1-85795c74cd91@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-b57605ee-44c8-4bb0-95c4-3=
-2a631b96644@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-8c18f6db-d3b2-4b3c-ab34-806697d2581a@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-6dc3f0db-5411-485a-aa44-1=
-53d670db2ee@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-93a431f9-25f5-4596-9f7f-eb522312b888@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-61c0845b-8709-4102-929e-e=
-4432be14c11@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-3540ad9a-58da-44c5-8824-405fa4fbc6df@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-769e3ac6-ee94-47e5-a597-1=
-8fd90b9b66e@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-dab2550a-e7a0-4b64-b569-a246304e0537@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-eaadf5c0-f43e-42c1-9014-e=
-c66b9fd3cdb@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-cafca4d0-4c63-443e-8545-16bee275a236@mhtml.blink" />
+css" href=3D"cid:css-99f9cd9d-2aea-4c26-b2d1-2e36b7599d7b@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-77da8f2d-cb07-4fd9=
+-aea6-579bfcc629c1@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-ff17f394-3149-41fa-9523-bd49f2f5c317@mhtml.blink" /><link=
+ rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-84a1e3af-8ac6-4f19-86=
+76-624ba18bc376@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
+ref=3D"cid:css-d13dfbbf-f280-4b96-afee-137a9d196be8@mhtml.blink" /><link re=
+l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-befd515e-7b08-42a6-9b26-=
+ad777f7b6272@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-e23d3fd1-62f9-4298-85cf-a157f413df7e@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-a3d74db1-ec6e-4e03-8a61-c=
+b873a2624c3@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-bb2395e2-e97b-4899-b031-d0f691ae6429@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-9473340b-4a31-4d95-af93-f=
+9dc42862656@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-54c73d44-11f0-4146-9f5e-92fceee59ecd@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-5e9e4bd2-7546-4a6f-ae5a-4=
+f90c5ab3be1@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-989b7361-f9d0-409e-a56b-1f7789cd6218@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-8736ee88-1b63-4c68-9e63-2=
+4fa881e65e0@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-9d450d1f-83f4-4d6c-90fa-2bbe999ffbdf@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-7e21b6d8-0b49-4681-8d21-4=
+16f97484847@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-17b74c83-3539-4396-9272-a08256b26a24@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-fd1136da-1662-4c4f-b5a2-2=
+91f624a9a13@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-a8ca8488-9dcf-4660-a09e-f4bc4e310fad@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-ec419a52-7b96-4d3d-8103-2=
+36a5bc2bb54@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-f1f40db6-59f6-4c19-ad76-ba4e099ff283@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-b934c2b6-328f-4f72-8396-3=
+bf90aed569d@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-2aeda44c-ada5-4e54-8494-1036804de7d3@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-b6f1a66d-edbf-47b3-ac5d-9=
+7b285769d1e@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-4f0f7a79-9b3f-47b3-88ce-5622cbf128f1@mhtml.blink" />
 =09
 	<title>TheHive</title>
 	<base href=3D"https://hive.smartinterviews.in/">
@@ -71,32 +71,32 @@ tor/editor.main.css"><link rel=3D"stylesheet" href=3D"https://hive.smartint=
 erviews.in/styles.e9dc555095c358311fce.css"></head>
 
 <body class=3D"mat-typography">
-	<app-root _nghost-gbs-c218=3D"" ng-version=3D"12.2.16"><div _ngcontent-gbs=
--c218=3D"" class=3D"app-container"><layout-header _ngcontent-gbs-c218=3D"" =
-_nghost-gbs-c217=3D""><nav _ngcontent-gbs-c217=3D"" class=3D"hive-nav"><div=
- _ngcontent-gbs-c217=3D"" class=3D"container flex flex-wrap justify-between=
- items-center mx-auto"><div _ngcontent-gbs-c217=3D"" class=3D"username"><ma=
-t-icon _ngcontent-gbs-c217=3D"" role=3D"img" class=3D"mat-icon notranslate =
+	<app-root _nghost-sct-c219=3D"" ng-version=3D"12.2.16"><div _ngcontent-sct=
+-c219=3D"" class=3D"app-container"><layout-header _ngcontent-sct-c219=3D"" =
+_nghost-sct-c218=3D""><nav _ngcontent-sct-c218=3D"" class=3D"hive-nav"><div=
+ _ngcontent-sct-c218=3D"" class=3D"container flex flex-wrap justify-between=
+ items-center mx-auto"><div _ngcontent-sct-c218=3D"" class=3D"username"><ma=
+t-icon _ngcontent-sct-c218=3D"" role=3D"img" class=3D"mat-icon notranslate =
 material-icons mat-icon-no-color" aria-hidden=3D"true" data-mat-icon-type=
-=3D"font">person</mat-icon><span _ngcontent-gbs-c217=3D"">Chaitu071</span><=
-/div><!----><div _ngcontent-gbs-c217=3D"" class=3D"hive-logo"><b _ngcontent=
--gbs-c217=3D"">THE HIVE <sup _ngcontent-gbs-c217=3D"" class=3D"logo-beta">B=
-ETA</sup></b></div><div _ngcontent-gbs-c217=3D"" class=3D"logout"> Logout <=
+=3D"font">person</mat-icon><span _ngcontent-sct-c218=3D"">Chaitu071</span><=
+/div><!----><div _ngcontent-sct-c218=3D"" class=3D"hive-logo"><b _ngcontent=
+-sct-c218=3D"">THE HIVE <sup _ngcontent-sct-c218=3D"" class=3D"logo-beta">B=
+ETA</sup></b></div><div _ngcontent-sct-c218=3D"" class=3D"logout"> Logout <=
 /div><!----><!----></div><!----></nav></layout-header><router-outlet _ngcon=
-tent-gbs-c218=3D""></router-outlet><app-solve _nghost-gbs-c216=3D"" class=
-=3D"ng-star-inserted"><div _ngcontent-gbs-c216=3D"" class=3D"large-screen w=
-rapper"><div _ngcontent-gbs-c216=3D"" class=3D"flex flex-row"><div _ngconte=
-nt-gbs-c216=3D"" class=3D"left-side ng-star-inserted"><div _ngcontent-gbs-c=
-216=3D"" class=3D"flex items-center"><div _ngcontent-gbs-c216=3D"" class=3D=
+tent-sct-c219=3D""></router-outlet><app-solve _nghost-sct-c216=3D"" class=
+=3D"ng-star-inserted"><div _ngcontent-sct-c216=3D"" class=3D"large-screen w=
+rapper"><div _ngcontent-sct-c216=3D"" class=3D"flex flex-row"><div _ngconte=
+nt-sct-c216=3D"" class=3D"left-side ng-star-inserted"><div _ngcontent-sct-c=
+216=3D"" class=3D"flex items-center"><div _ngcontent-sct-c216=3D"" class=3D=
 "font-sans p-4 flex flex-wrap items-center ng-star-inserted" style=3D"width=
-: 50px;"><div _ngcontent-gbs-c216=3D"" class=3D"text-3xl font-bold flex-1 p=
-x-4"><div _ngcontent-gbs-c216=3D"" class=3D"flex justify-between items-cent=
-er"><div _ngcontent-gbs-c216=3D"" class=3D"question-header ng-star-inserted=
-"><mat-icon _ngcontent-gbs-c216=3D"" role=3D"img" class=3D"mat-icon notrans=
+: 50px;"><div _ngcontent-sct-c216=3D"" class=3D"text-3xl font-bold flex-1 p=
+x-4"><div _ngcontent-sct-c216=3D"" class=3D"flex justify-between items-cent=
+er"><div _ngcontent-sct-c216=3D"" class=3D"question-header ng-star-inserted=
+"><mat-icon _ngcontent-sct-c216=3D"" role=3D"img" class=3D"mat-icon notrans=
 late text-xl p-2 font-extrabold material-icons mat-icon-no-color" style=3D"=
 transform: scale(1.7); padding-top: 5px;" aria-hidden=3D"true" data-mat-ico=
 n-type=3D"font"> chevron_left </mat-icon></div><!----></div></div></div><!-=
----><!----></div><mat-tab-group _ngcontent-gbs-c216=3D"" class=3D"mat-tab-g=
+---><!----></div><mat-tab-group _ngcontent-sct-c216=3D"" class=3D"mat-tab-g=
 roup mat-primary"><mat-tab-header class=3D"mat-tab-header"><div aria-hidden=
 =3D"true" mat-ripple=3D"" class=3D"mat-ripple mat-tab-header-pagination mat=
 -tab-header-pagination-before mat-elevation-z4 mat-tab-header-pagination-di=
@@ -129,283 +129,251 @@ class=3D"mat-tab-body ng-tns-c123-3 ng-star-inserted mat-tab-body-active" i=
 d=3D"mat-tab-content-0-1" aria-labelledby=3D"mat-tab-label-0-1"><div cdkscr=
 ollable=3D"" class=3D"mat-tab-body-content ng-tns-c123-3 ng-trigger ng-trig=
 ger-translateTab" style=3D"transform: none;"><app-submission-list _ngconten=
-t-gbs-c216=3D"" _nghost-gbs-c204=3D"" class=3D"ng-star-inserted"><div _ngco=
-ntent-gbs-c204=3D"" class=3D"p-4"><div _ngcontent-gbs-c204=3D"" class=3D"te=
-xt-center"><span _ngcontent-gbs-c204=3D"" class=3D"refresh-button"><mat-ico=
-n _ngcontent-gbs-c204=3D"" role=3D"img" class=3D"mat-icon notranslate mater=
+t-sct-c216=3D"" _nghost-sct-c204=3D"" class=3D"ng-star-inserted"><div _ngco=
+ntent-sct-c204=3D"" class=3D"p-4"><div _ngcontent-sct-c204=3D"" class=3D"te=
+xt-center"><span _ngcontent-sct-c204=3D"" class=3D"refresh-button"><mat-ico=
+n _ngcontent-sct-c204=3D"" role=3D"img" class=3D"mat-icon notranslate mater=
 ial-icons mat-icon-no-color" aria-hidden=3D"true" data-mat-icon-type=3D"fon=
-t">refresh</mat-icon><span _ngcontent-gbs-c204=3D"">Refresh</span></span><b=
-r _ngcontent-gbs-c204=3D""><small _ngcontent-gbs-c204=3D"">Last Fetched At:=
- 8/12/24, 9:11 PM </small><!----></div><div _ngcontent-gbs-c204=3D"" class=
-=3D"body-content ng-star-inserted" style=3D""><div _ngcontent-gbs-c204=3D""=
-><div _ngcontent-gbs-c204=3D"" class=3D"scrollable"><table _ngcontent-gbs-c=
-204=3D"" mat-table=3D"" class=3D"mat-table cdk-table mat-elevation-z4" role=
-=3D"table"><thead role=3D"rowgroup"><tr _ngcontent-gbs-c204=3D"" role=3D"ro=
-w" mat-header-row=3D"" class=3D"mat-header-row cdk-header-row ng-star-inser=
-ted"><th _ngcontent-gbs-c204=3D"" role=3D"columnheader" mat-header-cell=3D"=
-" class=3D"mat-header-cell cdk-header-cell cdk-column-submittedAt mat-colum=
-n-submittedAt ng-star-inserted"> Date </th><th _ngcontent-gbs-c204=3D"" rol=
-e=3D"columnheader" mat-header-cell=3D"" class=3D"mat-header-cell cdk-header=
--cell cdk-column-language mat-column-language ng-star-inserted"> Lang </th>=
-<th _ngcontent-gbs-c204=3D"" role=3D"columnheader" mat-header-cell=3D"" cla=
-ss=3D"mat-header-cell cdk-header-cell cdk-column-verdict mat-column-verdict=
- ng-star-inserted"> Verdict </th><th _ngcontent-gbs-c204=3D"" role=3D"colum=
-nheader" mat-header-cell=3D"" class=3D"mat-header-cell cdk-header-cell cdk-=
-column-score mat-column-score ng-star-inserted"> Score </th><th _ngcontent-=
-gbs-c204=3D"" role=3D"columnheader" mat-header-cell=3D"" class=3D"mat-heade=
-r-cell cdk-header-cell cdk-column-code mat-column-code ng-star-inserted" st=
-yle=3D"text-align: center;"> Code </th><!----></tr><!----></thead><tbody ro=
-le=3D"rowgroup"><tr _ngcontent-gbs-c204=3D"" role=3D"row" mat-row=3D"" clas=
-s=3D"mat-row cdk-row ng-star-inserted"><td _ngcontent-gbs-c204=3D"" role=3D=
-"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-column-submittedAt mat-=
-column-submittedAt ng-star-inserted"> 6/8/24, 9:54 PM </td><td _ngcontent-g=
-bs-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell cdk-col=
-umn-language mat-column-language ng-star-inserted"> PYTHON3 </td><td _ngcon=
-tent-gbs-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell c=
-dk-column-verdict mat-column-verdict ng-star-inserted"> Accepted </td><td _=
-ngcontent-gbs-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-c=
-ell cdk-column-score mat-column-score ng-star-inserted"> 20 </td><td _ngcon=
-tent-gbs-c204=3D"" role=3D"cell" mat-cell=3D"" class=3D"mat-cell cdk-cell c=
-dk-column-code mat-column-code ng-star-inserted"><div _ngcontent-gbs-c204=
-=3D"" class=3D"flex justify-center items-center"><a _ngcontent-gbs-c204=3D"=
-" target=3D"_blank" class=3D"flex justify-center items-center" style=3D"tex=
-t-decoration: none;" href=3D"https://hive.smartinterviews.in/submission/666=
-485c4be2f9debbc6fa39b"><button _ngcontent-gbs-c204=3D"" mat-raised-button=
-=3D"" class=3D"mat-focus-indicator mat-raised-button mat-button-base"><span=
- class=3D"mat-button-wrapper"> View <mat-icon _ngcontent-gbs-c204=3D"" role=
-=3D"img" class=3D"mat-icon notranslate material-icons mat-icon-no-color" st=
-yle=3D"font-size: 16px;" aria-hidden=3D"true" data-mat-icon-type=3D"font">l=
-aunch</mat-icon></span><span matripple=3D"" class=3D"mat-ripple mat-button-=
-ripple"></span><span class=3D"mat-button-focus-overlay"></span></button></a=
-><button _ngcontent-gbs-c204=3D"" mat-raised-button=3D"" class=3D"mat-focus=
--indicator mat-raised-button mat-button-base"><span class=3D"mat-button-wra=
-pper"> Edit </span><span matripple=3D"" class=3D"mat-ripple mat-button-ripp=
-le"></span><span class=3D"mat-button-focus-overlay"></span></button></div><=
-/td><!----></tr><!----><!----></tbody><tfoot role=3D"rowgroup" class=3D"mat=
--table-sticky" style=3D"display: none; bottom: 0px; z-index: 10;"><!----></=
-tfoot></table></div></div></div><!----></div></app-submission-list><!----><=
-/div></mat-tab-body><!----></div></mat-tab-group></div><!----><div _ngconte=
-nt-gbs-c216=3D"" adjustablesplitpane=3D"" direction=3D"horizontal" class=3D=
-"resizer ng-star-inserted"><div _ngcontent-gbs-c216=3D"" class=3D"dot"></di=
-v><div _ngcontent-gbs-c216=3D"" class=3D"dot"></div><div _ngcontent-gbs-c21=
-6=3D"" class=3D"dot"></div></div><!----><!----><div _ngcontent-gbs-c216=3D"=
-" class=3D"problem-editor"><app-editor _ngcontent-gbs-c216=3D"" _nghost-gbs=
--c215=3D"" class=3D"ng-star-inserted"><div _ngcontent-gbs-c215=3D"" class=
-=3D"editor-wrapper"><form _ngcontent-gbs-c215=3D"" novalidate=3D"" class=3D=
-"form-container ng-untouched ng-pristine ng-valid"><div _ngcontent-gbs-c215=
-=3D"" fxlayout=3D"row" fxlayoutgap=3D"5px" class=3D"options" style=3D"flex-=
-direction: row; box-sizing: border-box; display: flex;"><div _ngcontent-gbs=
--c215=3D"" fxlayout=3D"row" fxlayoutgap=3D"5px" style=3D"margin-right: 5px;=
- flex-direction: row; box-sizing: border-box; display: flex;"><div _ngconte=
-nt-gbs-c215=3D"" fxflex=3D"30px" class=3D"reset-icon" style=3D"margin-right=
-: 5px; flex: 1 1 30px; box-sizing: border-box; max-width: 30px; min-width: =
-30px;"><mat-icon _ngcontent-gbs-c215=3D"" role=3D"img" mattooltip=3D"Reset =
-your code" mattooltipposition=3D"right" class=3D"mat-icon notranslate mat-t=
-ooltip-trigger material-icons mat-icon-no-color" aria-hidden=3D"true" data-=
-mat-icon-type=3D"font" aria-describedby=3D"cdk-describedby-message-0" cdk-d=
-escribedby-host=3D"">restart_alt</mat-icon><!----></div><div _ngcontent-gbs=
--c215=3D"" fxflex=3D"" class=3D"reset-icon" style=3D"margin-right: 5px; fle=
-x: 1 1 0%; box-sizing: border-box;"><mat-icon _ngcontent-gbs-c215=3D"" role=
-=3D"img" mattooltip=3D"Editor Settings" mattooltipposition=3D"right" class=
-=3D"mat-icon notranslate mat-tooltip-trigger material-icons mat-icon-no-col=
-or" aria-hidden=3D"true" data-mat-icon-type=3D"font" aria-describedby=3D"cd=
-k-describedby-message-1" cdk-describedby-host=3D"">settings</mat-icon><!---=
--></div><div _ngcontent-gbs-c215=3D"" fxflex=3D"" class=3D"reset-icon ng-st=
-ar-inserted" style=3D"flex: 1 1 0%; box-sizing: border-box; margin-right: 5=
-px;"><button _ngcontent-gbs-c215=3D"" mat-icon-button=3D"" class=3D"mat-foc=
-us-indicator mat-icon-button mat-button-base" style=3D"margin-top: -10px;">=
-<span class=3D"mat-button-wrapper"><mat-icon _ngcontent-gbs-c215=3D"" role=
-=3D"img" mattooltip=3D"Save Code Template" mattooltipposition=3D"right" cla=
-ss=3D"mat-icon notranslate mat-tooltip-trigger material-icons mat-icon-no-c=
-olor" aria-hidden=3D"true" data-mat-icon-type=3D"font" aria-describedby=3D"=
-cdk-describedby-message-5" cdk-describedby-host=3D"">save</mat-icon><!---->=
-</span><span matripple=3D"" class=3D"mat-ripple mat-button-ripple mat-butto=
-n-ripple-round"></span><span class=3D"mat-button-focus-overlay"></span></bu=
-tton></div><!----><div _ngcontent-gbs-c215=3D"" class=3D"mat-tooltip-trigge=
-r score-box" aria-describedby=3D"cdk-describedby-message-6" cdk-describedby=
--host=3D"" style=3D"color: rgb(5, 150, 105);"><div _ngcontent-gbs-c215=3D""=
->Score: 20 / 20</div></div><!----></div><div _ngcontent-gbs-c215=3D"" style=
-=3D"flex-direction: row; box-sizing: border-box; display: flex;"><div _ngco=
-ntent-gbs-c215=3D"" class=3D"font-sans"><div _ngcontent-gbs-c215=3D"" class=
-=3D"incremental-timer ng-star-inserted"><!----><h2 _ngcontent-gbs-c215=3D""=
- mattooltipposition=3D"above" mattooltip=3D"Time taken to solve the problem=
-" class=3D"mat-tooltip-trigger ng-star-inserted" aria-describedby=3D"cdk-de=
-scribedby-message-8" cdk-describedby-host=3D""> 12 mins : 06 secs</h2><!---=
--><!----></div><!----><!----></div><mat-form-field _ngcontent-gbs-c215=3D""=
- fxflex=3D"125px" appearance=3D"standard" class=3D"mat-form-field ng-tns-c6=
-6-4 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-st=
-andard mat-form-field-can-float mat-form-field-has-label ng-untouched ng-pr=
-istine ng-valid ng-star-inserted mat-form-field-should-float" style=3D"flex=
-: 1 1 125px; box-sizing: border-box; max-width: 125px; min-width: 125px;"><=
-div class=3D"mat-form-field-wrapper ng-tns-c66-4"><div class=3D"mat-form-fi=
-eld-flex ng-tns-c66-4"><!----><!----><div class=3D"mat-form-field-infix ng-=
-tns-c66-4"><mat-select _ngcontent-gbs-c215=3D"" role=3D"combobox" aria-auto=
-complete=3D"none" aria-haspopup=3D"true" formcontrolname=3D"language" class=
-=3D"mat-select ng-tns-c79-5 ng-tns-c66-4 ng-untouched ng-pristine ng-valid =
-ng-star-inserted" aria-labelledby=3D"mat-form-field-label-3 mat-select-valu=
-e-3" id=3D"mat-select-2" tabindex=3D"0" aria-expanded=3D"false" aria-requir=
-ed=3D"false" aria-disabled=3D"false" aria-invalid=3D"false"><div cdk-overla=
-y-origin=3D"" class=3D"mat-select-trigger ng-tns-c79-5"><div class=3D"mat-s=
-elect-value ng-tns-c79-5" id=3D"mat-select-value-3"><!----><span class=3D"m=
-at-select-value-text ng-tns-c79-5 ng-star-inserted"><span class=3D"mat-sele=
-ct-min-line ng-tns-c79-5 ng-star-inserted">Python 3.6</span><!----><!----><=
-/span><!----></div><div class=3D"mat-select-arrow-wrapper ng-tns-c79-5"><di=
-v class=3D"mat-select-arrow ng-tns-c79-5"></div></div></div><!----></mat-se=
-lect><span class=3D"mat-form-field-label-wrapper ng-tns-c66-4"><label class=
-=3D"mat-form-field-label ng-tns-c66-4 ng-star-inserted" id=3D"mat-form-fiel=
-d-label-3" for=3D"mat-select-2" aria-owns=3D"mat-select-2"><!----><mat-labe=
-l _ngcontent-gbs-c215=3D"" class=3D"ng-tns-c66-4 ng-star-inserted">Language=
-</mat-label><!----><!----></label><!----></span></div><!----></div><div cla=
-ss=3D"mat-form-field-underline ng-tns-c66-4 ng-star-inserted"><span class=
-=3D"mat-form-field-ripple ng-tns-c66-4"></span></div><!----><div class=3D"m=
-at-form-field-subscript-wrapper ng-tns-c66-4"><!----><div class=3D"mat-form=
--field-hint-wrapper ng-tns-c66-4 ng-trigger ng-trigger-transitionMessages n=
-g-star-inserted" style=3D"opacity: 1; transform: translateY(0%);"><!----><d=
-iv class=3D"mat-form-field-hint-spacer ng-tns-c66-4"></div></div><!----></d=
-iv></div></mat-form-field></div></div><ngx-monaco-editor _ngcontent-gbs-c21=
-5=3D"" id=3D"editor" formcontrolname=3D"code" class=3D"my-code-editor ng-un=
-touched ng-pristine ng-valid" _nghost-gbs-c28=3D""><div _ngcontent-gbs-c28=
-=3D"" class=3D"editor-container" data-keybinding-context=3D"1" data-mode-id=
-=3D"python" style=3D"--codelens-font-features_ee1f61: &quot;liga&quot; off,=
- &quot;calt&quot; off;"><div class=3D"monaco-editor no-user-select  showUnu=
-sed showDeprecated vs-dark" role=3D"code" data-uri=3D"inmemory://model/1" s=
-tyle=3D"width: 1113px; height: 724px;"><div data-mprt=3D"3" class=3D"overfl=
-ow-guard" style=3D"width: 1113px; height: 724px;"><div class=3D"margin" rol=
-e=3D"presentation" aria-hidden=3D"true" style=3D"position: absolute; transf=
-orm: translate3d(0px, 0px, 0px); contain: strict; top: 0px; height: 724px; =
-width: 74px;"><div class=3D"glyph-margin" style=3D"left: 0px; width: 0px; h=
-eight: 724px;"></div><div class=3D"margin-view-zones" role=3D"presentation"=
- aria-hidden=3D"true" style=3D"position: absolute;"></div><div class=3D"mar=
-gin-view-overlays" role=3D"presentation" aria-hidden=3D"true" style=3D"posi=
-tion: absolute; width: 74px; font-family: &quot;Droid Sans Mono&quot;, &quo=
-t;monospace&quot;, monospace, &quot;Droid Sans Fallback&quot;; font-weight:=
- normal; font-size: 16px; font-feature-settings: &quot;liga&quot; 0, &quot;=
-calt&quot; 0; line-height: 22px; letter-spacing: 0px; height: 724px;"><div =
-style=3D"position:absolute;top:0px;width:100%;height:22px;"><div class=3D"c=
-urrent-line current-line-margin-both" style=3D"width:74px; height:22px;"></=
-div><div class=3D"active-line-number line-numbers lh-even" style=3D"left:0p=
-x;width:48px;">1</div></div></div></div><div class=3D"monaco-scrollable-ele=
-ment editor-scrollable vs-dark" role=3D"presentation" data-mprt=3D"5" style=
-=3D"position: absolute; overflow: hidden; left: 74px; width: 1039px; height=
-: 724px;"><div class=3D"lines-content monaco-editor-background" style=3D"po=
-sition: absolute; overflow: hidden; width: 1e+06px; height: 1e+06px; transf=
-orm: translate3d(0px, 0px, 0px); contain: strict; top: 0px; left: 0px;"><di=
-v class=3D"view-overlays" role=3D"presentation" aria-hidden=3D"true" style=
-=3D"position: absolute; height: 0px; width: 935px;"><div style=3D"position:=
-absolute;top:0px;width:100%;height:22px;"><div class=3D"current-line" style=
-=3D"width:935px; height:22px;"></div></div></div><div role=3D"presentation"=
- aria-hidden=3D"true" class=3D"view-rulers"></div><div class=3D"view-zones"=
- role=3D"presentation" aria-hidden=3D"true" style=3D"position: absolute;"><=
-/div><div class=3D"view-lines monaco-mouse-cursor-text" role=3D"presentatio=
-n" aria-hidden=3D"true" data-mprt=3D"7" style=3D"position: absolute; font-f=
-amily: &quot;Droid Sans Mono&quot;, &quot;monospace&quot;, monospace, &quot=
-;Droid Sans Fallback&quot;; font-weight: normal; font-size: 16px; font-feat=
-ure-settings: &quot;liga&quot; 0, &quot;calt&quot; 0; line-height: 22px; le=
-tter-spacing: 0px; width: 935px; height: 724px;"><div style=3D"top:0px;heig=
-ht:22px;" class=3D"view-line"><span><span class=3D"mtk7">#&nbsp;Enter&nbsp;=
-your&nbsp;code&nbsp;here.&nbsp;Read&nbsp;input&nbsp;from&nbsp;STDIN.&nbsp;P=
-ri</span><span class=3D"mtk7">nt&nbsp;output&nbsp;to&nbsp;STDOUT</span></sp=
-an></div></div><div data-mprt=3D"1" class=3D"contentWidgets" style=3D"posit=
-ion: absolute; top: 0px;"></div><div role=3D"presentation" aria-hidden=3D"t=
-rue" class=3D"cursors-layer cursor-line-style cursor-solid"><div class=3D"c=
-ursor monaco-mouse-cursor-text " style=3D"height: 22px; top: 0px; left: 0px=
-; font-family: &quot;Droid Sans Mono&quot;, &quot;monospace&quot;, monospac=
-e, &quot;Droid Sans Fallback&quot;; font-weight: normal; font-size: 16px; f=
-ont-feature-settings: &quot;liga&quot; 0, &quot;calt&quot; 0; line-height: =
-22px; letter-spacing: 0px; display: block; visibility: hidden; width: 2px;"=
-></div></div></div><div role=3D"presentation" aria-hidden=3D"true" class=3D=
-"invisible scrollbar horizontal" style=3D"position: absolute; width: 921px;=
- height: 12px; left: 0px; bottom: 0px;"><div class=3D"slider" style=3D"posi=
-tion: absolute; top: 0px; left: 0px; height: 12px; transform: translate3d(0=
-px, 0px, 0px); contain: strict; width: 921px;"></div></div><canvas class=3D=
-"decorationsOverviewRuler" aria-hidden=3D"true" width=3D"14" height=3D"724"=
- style=3D"position: absolute; transform: translate3d(0px, 0px, 0px); contai=
-n: strict; top: 0px; right: 0px; width: 14px; height: 724px;"></canvas><div=
- role=3D"presentation" aria-hidden=3D"true" class=3D"invisible scrollbar ve=
-rtical" style=3D"position: absolute; width: 14px; height: 724px; right: 0px=
-; top: 0px;"><div class=3D"slider" style=3D"position: absolute; top: 0px; l=
-eft: 0px; width: 14px; transform: translate3d(0px, 0px, 0px); contain: stri=
-ct; height: 724px;"></div></div></div><div role=3D"presentation" aria-hidde=
-n=3D"true" style=3D"width: 995px;"></div><textarea data-mprt=3D"6" class=3D=
-"inputarea monaco-mouse-cursor-text" wrap=3D"off" autocorrect=3D"off" autoc=
-apitalize=3D"off" autocomplete=3D"off" spellcheck=3D"false" aria-label=3D"E=
-ditor content;Press Alt+F1 for Accessibility Options." tabindex=3D"0" role=
-=3D"textbox" aria-roledescription=3D"editor" aria-multiline=3D"true" aria-h=
-aspopup=3D"false" aria-autocomplete=3D"both" style=3D"font-family: &quot;Dr=
-oid Sans Mono&quot;, &quot;monospace&quot;, monospace, &quot;Droid Sans Fal=
-lback&quot;; font-weight: normal; font-size: 16px; font-feature-settings: &=
-quot;liga&quot; 0, &quot;calt&quot; 0; line-height: 22px; letter-spacing: 0=
-px; top: 0px; left: 74px; width: 1px; height: 1px;"></textarea><div style=
-=3D"position: absolute; top: 0px; left: 0px; width: 0px; height: 0px;"></di=
-v><div data-mprt=3D"4" class=3D"overlayWidgets" style=3D"width: 1113px;"><d=
-iv class=3D"accessibilityHelpWidget" role=3D"dialog" aria-hidden=3D"true" w=
-idgetid=3D"editor.contrib.accessibilityHelpWidget" style=3D"display: none; =
-position: absolute;"><div role=3D"document"></div></div><div widgetid=3D"ed=
-itor.contrib.quickInputWidget" style=3D"position: absolute; top: 0px; right=
-: 50%;"></div></div><div data-mprt=3D"8" class=3D"minimap slider-mouseover"=
- role=3D"presentation" aria-hidden=3D"true" style=3D"position: absolute; le=
-ft: 995px; width: 104px; height: 724px;"><div class=3D"minimap-shadow-hidde=
-n" style=3D"height: 724px;"></div><canvas width=3D"104" height=3D"724" styl=
-e=3D"position: absolute; left: 0px; width: 104px; height: 724px;"></canvas>=
-<canvas class=3D"minimap-decorations-layer" width=3D"104" height=3D"724" st=
-yle=3D"position: absolute; left: 0px; width: 104px; height: 724px;"></canva=
-s><div class=3D"minimap-slider" style=3D"position: absolute; transform: tra=
-nslate3d(0px, 0px, 0px); contain: strict; width: 104px; display: none; heig=
-ht: 65px;"><div class=3D"minimap-slider-horizontal" style=3D"position: abso=
-lute; left: 0px; width: 104px; top: 0px; height: 65px;"></div></div></div><=
-/div><div data-mprt=3D"2" class=3D"overflowingContentWidgets"><div class=3D=
-"monaco-editor rename-box" widgetid=3D"__renameInputWidget" style=3D"backgr=
-ound-color: rgb(37, 37, 38); box-shadow: rgba(0, 0, 0, 0.36) 0px 0px 8px 2p=
-x; color: rgb(204, 204, 204); position: absolute; visibility: hidden; max-w=
-idth: 1872px;"><input class=3D"rename-input" type=3D"text" aria-label=3D"Re=
-name input. Type new name and press Enter to commit." style=3D"font-family:=
- &quot;Droid Sans Mono&quot;, &quot;monospace&quot;, monospace, &quot;Droid=
- Sans Fallback&quot;; font-weight: normal; font-size: 16px; background-colo=
-r: rgb(60, 60, 60); border-width: 0px; border-style: none;"><div class=3D"r=
-ename-label" style=3D"font-size: 12.8px;">Enter to Rename, Shift+Enter to P=
-review</div></div></div><div class=3D"context-view" aria-hidden=3D"true" st=
-yle=3D"display: none;"></div></div></div></ngx-monaco-editor><!----><!---->=
-<div _ngcontent-gbs-c215=3D"" class=3D"solve-options"><div _ngcontent-gbs-c=
-215=3D"" class=3D"console-button"><button _ngcontent-gbs-c215=3D"" mat-rais=
-ed-button=3D"" class=3D"mat-focus-indicator mat-raised-button mat-button-ba=
-se"><span class=3D"mat-button-wrapper">Console <mat-icon _ngcontent-gbs-c21=
-5=3D"" role=3D"img" class=3D"mat-icon notranslate material-icons mat-icon-n=
-o-color" aria-hidden=3D"true" data-mat-icon-type=3D"font">expand_less</mat-=
-icon></span><span matripple=3D"" class=3D"mat-ripple mat-button-ripple"></s=
-pan><span class=3D"mat-button-focus-overlay"></span></button><button _ngcon=
-tent-gbs-c215=3D"" mat-stroked-button=3D"" color=3D"accent" class=3D"mat-fo=
-cus-indicator raise-query mat-stroked-button mat-button-base mat-accent ng-=
-star-inserted"><span class=3D"mat-button-wrapper"> Raise Query </span><span=
- matripple=3D"" class=3D"mat-ripple mat-button-ripple"></span><span class=
-=3D"mat-button-focus-overlay"></span></button><!----></div><button _ngconte=
-nt-gbs-c215=3D"" mat-stroked-button=3D"" color=3D"primary" mattooltip=3D"Ct=
-rl + ;" mattooltipclass=3D"custom-tooltip" class=3D"mat-focus-indicator mat=
--tooltip-trigger mat-stroked-button mat-button-base mat-primary" aria-descr=
-ibedby=3D"cdk-describedby-message-2" cdk-describedby-host=3D""><span class=
-=3D"mat-button-wrapper">Run</span><span matripple=3D"" class=3D"mat-ripple =
-mat-button-ripple"></span><span class=3D"mat-button-focus-overlay"></span><=
-/button><!----><button _ngcontent-gbs-c215=3D"" mat-raised-button=3D"" colo=
-r=3D"primary" mattooltip=3D"Ctrl + '" mattooltipclass=3D"custom-tooltip" cl=
-ass=3D"mat-focus-indicator mat-tooltip-trigger mat-raised-button mat-button=
--base mat-primary" aria-describedby=3D"cdk-describedby-message-3" cdk-descr=
-ibedby-host=3D""><span class=3D"mat-button-wrapper">Submit</span><span matr=
-ipple=3D"" class=3D"mat-ripple mat-button-ripple"></span><span class=3D"mat=
--button-focus-overlay"></span></button><!----><button _ngcontent-gbs-c215=
-=3D"" mat-icon-button=3D"" mattooltipposition=3D"left" mattooltip=3D"Notes"=
- class=3D"mat-focus-indicator mat-tooltip-trigger notes-btn mat-icon-button=
- mat-button-base ng-star-inserted" aria-describedby=3D"cdk-describedby-mess=
-age-7" cdk-describedby-host=3D""><span class=3D"mat-button-wrapper"><mat-ic=
-on _ngcontent-gbs-c215=3D"" role=3D"img" class=3D"mat-icon notranslate mate=
-rial-icons mat-icon-no-color ng-star-inserted" aria-hidden=3D"true" data-ma=
-t-icon-type=3D"font">assignment</mat-icon><!----><!----></span><span matrip=
-ple=3D"" class=3D"mat-ripple mat-button-ripple mat-button-ripple-round"></s=
-pan><span class=3D"mat-button-focus-overlay"></span></button><!----><!---->=
-</div></form></div></app-editor><!----><!----></div></div></div><div _ngcon=
-tent-gbs-c216=3D"" class=3D"small-screen"><div _ngcontent-gbs-c216=3D"" cla=
-ss=3D"flex justify-center pt-28 px-4"><div _ngcontent-gbs-c216=3D"" class=
-=3D"bg-gray-200 p-4 rounded-lg"><h2 _ngcontent-gbs-c216=3D"">Please note th=
-at contests are not compatible with lower width mobile devices. To enter, p=
-lease use a PC. </h2></div></div></div></app-solve><!----></div></app-root>
+t">refresh</mat-icon><span _ngcontent-sct-c204=3D"">Refresh</span></span><b=
+r _ngcontent-sct-c204=3D""><small _ngcontent-sct-c204=3D"">Last Fetched At:=
+ 9/18/24, 5:16 PM </small><div _ngcontent-sct-c204=3D"" class=3D"font-sans =
+font-light text-xl ng-star-inserted"> You do not have any submissions. </di=
+v><!----></div><!----></div></app-submission-list><!----></div></mat-tab-bo=
+dy><!----></div></mat-tab-group></div><!----><div _ngcontent-sct-c216=3D"" =
+adjustablesplitpane=3D"" direction=3D"horizontal" class=3D"resizer ng-star-=
+inserted"><div _ngcontent-sct-c216=3D"" class=3D"dot"></div><div _ngcontent=
+-sct-c216=3D"" class=3D"dot"></div><div _ngcontent-sct-c216=3D"" class=3D"d=
+ot"></div></div><!----><!----><div _ngcontent-sct-c216=3D"" class=3D"proble=
+m-editor"><app-editor _ngcontent-sct-c216=3D"" _nghost-sct-c215=3D"" class=
+=3D"ng-star-inserted"><div _ngcontent-sct-c215=3D"" class=3D"editor-wrapper=
+"><form _ngcontent-sct-c215=3D"" novalidate=3D"" class=3D"form-container ng=
+-untouched ng-pristine ng-valid"><div _ngcontent-sct-c215=3D"" fxlayout=3D"=
+row" fxlayoutgap=3D"5px" class=3D"options" style=3D"flex-direction: row; bo=
+x-sizing: border-box; display: flex;"><div _ngcontent-sct-c215=3D"" fxlayou=
+t=3D"row" fxlayoutgap=3D"5px" style=3D"margin-right: 5px; flex-direction: r=
+ow; box-sizing: border-box; display: flex;"><div _ngcontent-sct-c215=3D"" f=
+xflex=3D"30px" class=3D"reset-icon" style=3D"margin-right: 5px; flex: 1 1 3=
+0px; box-sizing: border-box; max-width: 30px; min-width: 30px;"><mat-icon _=
+ngcontent-sct-c215=3D"" role=3D"img" mattooltip=3D"Reset your code" mattool=
+tipposition=3D"right" class=3D"mat-icon notranslate mat-tooltip-trigger mat=
+erial-icons mat-icon-no-color" aria-hidden=3D"true" data-mat-icon-type=3D"f=
+ont" aria-describedby=3D"cdk-describedby-message-0" cdk-describedby-host=3D=
+"">restart_alt</mat-icon><!----></div><div _ngcontent-sct-c215=3D"" fxflex=
+=3D"" class=3D"reset-icon" style=3D"margin-right: 5px; flex: 1 1 0%; box-si=
+zing: border-box;"><mat-icon _ngcontent-sct-c215=3D"" role=3D"img" mattoolt=
+ip=3D"Editor Settings" mattooltipposition=3D"right" class=3D"mat-icon notra=
+nslate mat-tooltip-trigger material-icons mat-icon-no-color" aria-hidden=3D=
+"true" data-mat-icon-type=3D"font" aria-describedby=3D"cdk-describedby-mess=
+age-1" cdk-describedby-host=3D"">settings</mat-icon><!----></div><div _ngco=
+ntent-sct-c215=3D"" fxflex=3D"" class=3D"reset-icon ng-star-inserted" style=
+=3D"flex: 1 1 0%; box-sizing: border-box; margin-right: 5px;"><button _ngco=
+ntent-sct-c215=3D"" mat-icon-button=3D"" class=3D"mat-focus-indicator mat-i=
+con-button mat-button-base" style=3D"margin-top: -10px;"><span class=3D"mat=
+-button-wrapper"><mat-icon _ngcontent-sct-c215=3D"" role=3D"img" mattooltip=
+=3D"Save Code Template" mattooltipposition=3D"right" class=3D"mat-icon notr=
+anslate mat-tooltip-trigger material-icons mat-icon-no-color" aria-hidden=
+=3D"true" data-mat-icon-type=3D"font" aria-describedby=3D"cdk-describedby-m=
+essage-5" cdk-describedby-host=3D"">save</mat-icon><!----></span><span matr=
+ipple=3D"" class=3D"mat-ripple mat-button-ripple mat-button-ripple-round"><=
+/span><span class=3D"mat-button-focus-overlay"></span></button></div><!----=
+><div _ngcontent-sct-c215=3D"" class=3D"mat-tooltip-trigger score-box" aria=
+-describedby=3D"cdk-describedby-message-6" cdk-describedby-host=3D"" style=
+=3D"color: rgb(5, 150, 105);"><div _ngcontent-sct-c215=3D"">Score: 50 / 50<=
+/div></div><!----></div><div _ngcontent-sct-c215=3D"" style=3D"flex-directi=
+on: row; box-sizing: border-box; display: flex;"><div _ngcontent-sct-c215=
+=3D"" class=3D"font-sans"><div _ngcontent-sct-c215=3D"" class=3D"incrementa=
+l-timer ng-star-inserted"><app-incremental-timer _ngcontent-sct-c215=3D"" m=
+attooltipposition=3D"above" class=3D"mat-tooltip-trigger" _nghost-sct-c213=
+=3D"" aria-describedby=3D"cdk-describedby-message-8" cdk-describedby-host=
+=3D""><div _ngcontent-sct-c213=3D"" class=3D"timer-container"><!----><div _=
+ngcontent-sct-c213=3D"" class=3D"unit ng-star-inserted"><div _ngcontent-sct=
+-c213=3D"" class=3D"time">01</div><div _ngcontent-sct-c213=3D"" class=3D"de=
+sc">Hours</div></div><div _ngcontent-sct-c213=3D"" class=3D"unit ng-star-in=
+serted"><div _ngcontent-sct-c213=3D"" class=3D"time">:</div></div><!----><!=
+----><div _ngcontent-sct-c213=3D"" class=3D"unit"><div _ngcontent-sct-c213=
+=3D"" class=3D"time">39</div><div _ngcontent-sct-c213=3D"" class=3D"desc">M=
+inutes</div></div><div _ngcontent-sct-c213=3D"" class=3D"unit ng-star-inser=
+ted"><div _ngcontent-sct-c213=3D"" class=3D"time">:</div></div><div _ngcont=
+ent-sct-c213=3D"" class=3D"unit ng-star-inserted"><div _ngcontent-sct-c213=
+=3D"" class=3D"time">32</div><div _ngcontent-sct-c213=3D"" class=3D"desc">S=
+econds</div></div><!----><!----></div></app-incremental-timer><!----></div>=
+<!----><!----></div><mat-form-field _ngcontent-sct-c215=3D"" fxflex=3D"125p=
+x" appearance=3D"standard" class=3D"mat-form-field ng-tns-c66-4 mat-primary=
+ mat-form-field-type-mat-select mat-form-field-appearance-standard mat-form=
+-field-can-float mat-form-field-has-label ng-untouched ng-pristine ng-valid=
+ ng-star-inserted mat-form-field-should-float" style=3D"flex: 1 1 125px; bo=
+x-sizing: border-box; max-width: 125px; min-width: 125px;"><div class=3D"ma=
+t-form-field-wrapper ng-tns-c66-4"><div class=3D"mat-form-field-flex ng-tns=
+-c66-4"><!----><!----><div class=3D"mat-form-field-infix ng-tns-c66-4"><mat=
+-select _ngcontent-sct-c215=3D"" role=3D"combobox" aria-autocomplete=3D"non=
+e" aria-haspopup=3D"true" formcontrolname=3D"language" class=3D"mat-select =
+ng-tns-c79-5 ng-tns-c66-4 ng-untouched ng-pristine ng-valid ng-star-inserte=
+d" aria-labelledby=3D"mat-form-field-label-3 mat-select-value-3" id=3D"mat-=
+select-2" tabindex=3D"0" aria-expanded=3D"false" aria-required=3D"false" ar=
+ia-disabled=3D"false" aria-invalid=3D"false"><div cdk-overlay-origin=3D"" c=
+lass=3D"mat-select-trigger ng-tns-c79-5"><div class=3D"mat-select-value ng-=
+tns-c79-5" id=3D"mat-select-value-3"><!----><span class=3D"mat-select-value=
+-text ng-tns-c79-5 ng-star-inserted"><span class=3D"mat-select-min-line ng-=
+tns-c79-5 ng-star-inserted">Python 3.6</span><!----><!----></span><!----></=
+div><div class=3D"mat-select-arrow-wrapper ng-tns-c79-5"><div class=3D"mat-=
+select-arrow ng-tns-c79-5"></div></div></div><!----></mat-select><span clas=
+s=3D"mat-form-field-label-wrapper ng-tns-c66-4"><label class=3D"mat-form-fi=
+eld-label ng-tns-c66-4 ng-star-inserted" id=3D"mat-form-field-label-3" for=
+=3D"mat-select-2" aria-owns=3D"mat-select-2"><!----><mat-label _ngcontent-s=
+ct-c215=3D"" class=3D"ng-tns-c66-4 ng-star-inserted">Language</mat-label><!=
+----><!----></label><!----></span></div><!----></div><div class=3D"mat-form=
+-field-underline ng-tns-c66-4 ng-star-inserted"><span class=3D"mat-form-fie=
+ld-ripple ng-tns-c66-4"></span></div><!----><div class=3D"mat-form-field-su=
+bscript-wrapper ng-tns-c66-4"><!----><div class=3D"mat-form-field-hint-wrap=
+per ng-tns-c66-4 ng-trigger ng-trigger-transitionMessages ng-star-inserted"=
+ style=3D"opacity: 1; transform: translateY(0%);"><!----><div class=3D"mat-=
+form-field-hint-spacer ng-tns-c66-4"></div></div><!----></div></div></mat-f=
+orm-field></div></div><ngx-monaco-editor _ngcontent-sct-c215=3D"" id=3D"edi=
+tor" formcontrolname=3D"code" class=3D"my-code-editor ng-untouched ng-prist=
+ine ng-valid" _nghost-sct-c28=3D""><div _ngcontent-sct-c28=3D"" class=3D"ed=
+itor-container" data-keybinding-context=3D"1" data-mode-id=3D"python" style=
+=3D"--codelens-font-features_ee1f61: &quot;liga&quot; off, &quot;calt&quot;=
+ off;"><div class=3D"monaco-editor no-user-select  showUnused showDeprecate=
+d vs-dark" role=3D"code" data-uri=3D"inmemory://model/1" style=3D"width: 78=
+4px; height: 717px;"><div data-mprt=3D"3" class=3D"overflow-guard" style=3D=
+"width: 784px; height: 717px;"><div class=3D"margin" role=3D"presentation" =
+aria-hidden=3D"true" style=3D"position: absolute; transform: translate3d(0p=
+x, 0px, 0px); contain: strict; top: 0px; height: 717px; width: 74px;"><div =
+class=3D"glyph-margin" style=3D"left: 0px; width: 0px; height: 717px;"></di=
+v><div class=3D"margin-view-zones" role=3D"presentation" aria-hidden=3D"tru=
+e" style=3D"position: absolute;"></div><div class=3D"margin-view-overlays" =
+role=3D"presentation" aria-hidden=3D"true" style=3D"position: absolute; wid=
+th: 74px; font-family: &quot;Droid Sans Mono&quot;, &quot;monospace&quot;, =
+monospace, &quot;Droid Sans Fallback&quot;; font-weight: normal; font-size:=
+ 16px; font-feature-settings: &quot;liga&quot; 0, &quot;calt&quot; 0; line-=
+height: 22px; letter-spacing: 0px; height: 717px;"><div style=3D"position:a=
+bsolute;top:0px;width:100%;height:22px;"><div class=3D"current-line current=
+-line-margin-both" style=3D"width:74px; height:22px;"></div><div class=3D"a=
+ctive-line-number line-numbers lh-even" style=3D"left:0px;width:48px;">1</d=
+iv></div></div></div><div class=3D"monaco-scrollable-element editor-scrolla=
+ble vs-dark" role=3D"presentation" data-mprt=3D"5" style=3D"position: absol=
+ute; overflow: hidden; left: 74px; width: 710px; height: 717px;"><div class=
+=3D"lines-content monaco-editor-background" style=3D"position: absolute; ov=
+erflow: hidden; width: 1e+06px; height: 1e+06px; transform: translate3d(0px=
+, 0px, 0px); contain: strict; top: 0px; left: 0px;"><div class=3D"view-over=
+lays" role=3D"presentation" aria-hidden=3D"true" style=3D"position: absolut=
+e; height: 0px; width: 713px;"><div style=3D"position:absolute;top:0px;widt=
+h:100%;height:22px;"><div class=3D"current-line" style=3D"width:713px; heig=
+ht:22px;"></div></div></div><div role=3D"presentation" aria-hidden=3D"true"=
+ class=3D"view-rulers"></div><div class=3D"view-zones" role=3D"presentation=
+" aria-hidden=3D"true" style=3D"position: absolute;"></div><div class=3D"vi=
+ew-lines monaco-mouse-cursor-text" role=3D"presentation" aria-hidden=3D"tru=
+e" data-mprt=3D"7" style=3D"position: absolute; font-family: &quot;Droid Sa=
+ns Mono&quot;, &quot;monospace&quot;, monospace, &quot;Droid Sans Fallback&=
+quot;; font-weight: normal; font-size: 16px; font-feature-settings: &quot;l=
+iga&quot; 0, &quot;calt&quot; 0; line-height: 22px; letter-spacing: 0px; wi=
+dth: 713px; height: 717px;"><div style=3D"top:0px;height:22px;" class=3D"vi=
+ew-line"><span><span class=3D"mtk7">#&nbsp;Enter&nbsp;your&nbsp;code&nbsp;h=
+ere.&nbsp;Read&nbsp;input&nbsp;from&nbsp;STDIN.&nbsp;Pri</span><span class=
+=3D"mtk7">nt&nbsp;output&nbsp;to&nbsp;STDOUT</span></span></div></div><div =
+data-mprt=3D"1" class=3D"contentWidgets" style=3D"position: absolute; top: =
+0px;"></div><div role=3D"presentation" aria-hidden=3D"true" class=3D"cursor=
+s-layer cursor-line-style cursor-solid"><div class=3D"cursor monaco-mouse-c=
+ursor-text " style=3D"height: 22px; top: 0px; left: 0px; font-family: &quot=
+;Droid Sans Mono&quot;, &quot;monospace&quot;, monospace, &quot;Droid Sans =
+Fallback&quot;; font-weight: normal; font-size: 16px; font-feature-settings=
+: &quot;liga&quot; 0, &quot;calt&quot; 0; line-height: 22px; letter-spacing=
+: 0px; display: block; visibility: hidden; width: 2px;"></div></div></div><=
+div role=3D"presentation" aria-hidden=3D"true" class=3D"invisible scrollbar=
+ horizontal fade" style=3D"position: absolute; width: 623px; height: 12px; =
+left: 0px; bottom: 0px;"><div class=3D"slider" style=3D"position: absolute;=
+ top: 0px; left: 0px; height: 12px; transform: translate3d(0px, 0px, 0px); =
+contain: strict; width: 556px;"></div></div><canvas class=3D"decorationsOve=
+rviewRuler" aria-hidden=3D"true" width=3D"14" height=3D"717" style=3D"posit=
+ion: absolute; transform: translate3d(0px, 0px, 0px); contain: strict; top:=
+ 0px; right: 0px; width: 14px; height: 717px;"></canvas><div role=3D"presen=
+tation" aria-hidden=3D"true" class=3D"invisible scrollbar vertical" style=
+=3D"position: absolute; width: 14px; height: 717px; right: 0px; top: 0px;">=
+<div class=3D"slider" style=3D"position: absolute; top: 0px; left: 0px; wid=
+th: 14px; transform: translate3d(0px, 0px, 0px); contain: strict; height: 7=
+17px;"></div></div></div><div role=3D"presentation" aria-hidden=3D"true" st=
+yle=3D"width: 697px;"></div><textarea data-mprt=3D"6" class=3D"inputarea mo=
+naco-mouse-cursor-text" wrap=3D"off" autocorrect=3D"off" autocapitalize=3D"=
+off" autocomplete=3D"off" spellcheck=3D"false" aria-label=3D"Editor content=
+;Press Alt+F1 for Accessibility Options." tabindex=3D"0" role=3D"textbox" a=
+ria-roledescription=3D"editor" aria-multiline=3D"true" aria-haspopup=3D"fal=
+se" aria-autocomplete=3D"both" style=3D"font-family: &quot;Droid Sans Mono&=
+quot;, &quot;monospace&quot;, monospace, &quot;Droid Sans Fallback&quot;; f=
+ont-weight: normal; font-size: 16px; font-feature-settings: &quot;liga&quot=
+; 0, &quot;calt&quot; 0; line-height: 22px; letter-spacing: 0px; top: 0px; =
+left: 74px; width: 1px; height: 1px;"></textarea><div style=3D"position: ab=
+solute; top: 0px; left: 0px; width: 0px; height: 0px;"></div><div data-mprt=
+=3D"4" class=3D"overlayWidgets" style=3D"width: 784px;"><div class=3D"acces=
+sibilityHelpWidget" role=3D"dialog" aria-hidden=3D"true" widgetid=3D"editor=
+.contrib.accessibilityHelpWidget" style=3D"display: none; position: absolut=
+e;"><div role=3D"document"></div></div><div widgetid=3D"editor.contrib.quic=
+kInputWidget" style=3D"position: absolute; top: 0px; right: 50%;"></div></d=
+iv><div data-mprt=3D"8" class=3D"minimap slider-mouseover" role=3D"presenta=
+tion" aria-hidden=3D"true" style=3D"position: absolute; left: 697px; width:=
+ 73px; height: 717px;"><div class=3D"minimap-shadow-visible" style=3D"heigh=
+t: 717px;"></div><canvas width=3D"73" height=3D"717" style=3D"position: abs=
+olute; left: 0px; width: 73px; height: 717px;"></canvas><canvas class=3D"mi=
+nimap-decorations-layer" width=3D"73" height=3D"717" style=3D"position: abs=
+olute; left: 0px; width: 73px; height: 717px;"></canvas><div class=3D"minim=
+ap-slider" style=3D"position: absolute; transform: translate3d(0px, 0px, 0p=
+x); contain: strict; width: 73px; display: none; height: 65px;"><div class=
+=3D"minimap-slider-horizontal" style=3D"position: absolute; left: 0px; widt=
+h: 73px; top: 0px; height: 65px;"></div></div></div></div><div data-mprt=3D=
+"2" class=3D"overflowingContentWidgets"><div class=3D"monaco-editor rename-=
+box" widgetid=3D"__renameInputWidget" style=3D"background-color: rgb(37, 37=
+, 38); box-shadow: rgba(0, 0, 0, 0.36) 0px 0px 8px 2px; color: rgb(204, 204=
+, 204); position: absolute; visibility: hidden; max-width: 1324px;"><input =
+class=3D"rename-input" type=3D"text" aria-label=3D"Rename input. Type new n=
+ame and press Enter to commit." style=3D"font-family: &quot;Droid Sans Mono=
+&quot;, &quot;monospace&quot;, monospace, &quot;Droid Sans Fallback&quot;; =
+font-weight: normal; font-size: 16px; background-color: rgb(60, 60, 60); bo=
+rder-width: 0px; border-style: none;"><div class=3D"rename-label" style=3D"=
+font-size: 12.8px;">Enter to Rename, Shift+Enter to Preview</div></div></di=
+v><div class=3D"context-view" aria-hidden=3D"true" style=3D"display: none;"=
+></div></div></div></ngx-monaco-editor><!----><!----><div _ngcontent-sct-c2=
+15=3D"" class=3D"solve-options"><div _ngcontent-sct-c215=3D"" class=3D"cons=
+ole-button"><button _ngcontent-sct-c215=3D"" mat-raised-button=3D"" class=
+=3D"mat-focus-indicator mat-raised-button mat-button-base"><span class=3D"m=
+at-button-wrapper">Console <mat-icon _ngcontent-sct-c215=3D"" role=3D"img" =
+class=3D"mat-icon notranslate material-icons mat-icon-no-color" aria-hidden=
+=3D"true" data-mat-icon-type=3D"font">expand_less</mat-icon></span><span ma=
+tripple=3D"" class=3D"mat-ripple mat-button-ripple"></span><span class=3D"m=
+at-button-focus-overlay"></span></button><button _ngcontent-sct-c215=3D"" m=
+at-stroked-button=3D"" color=3D"accent" class=3D"mat-focus-indicator raise-=
+query mat-stroked-button mat-button-base mat-accent ng-star-inserted"><span=
+ class=3D"mat-button-wrapper"> Raise Query </span><span matripple=3D"" clas=
+s=3D"mat-ripple mat-button-ripple"></span><span class=3D"mat-button-focus-o=
+verlay"></span></button><!----></div><button _ngcontent-sct-c215=3D"" mat-s=
+troked-button=3D"" color=3D"primary" mattooltip=3D"Ctrl + ;" mattooltipclas=
+s=3D"custom-tooltip" class=3D"mat-focus-indicator mat-tooltip-trigger mat-s=
+troked-button mat-button-base mat-primary" aria-describedby=3D"cdk-describe=
+dby-message-2" cdk-describedby-host=3D""><span class=3D"mat-button-wrapper"=
+>Run</span><span matripple=3D"" class=3D"mat-ripple mat-button-ripple"></sp=
+an><span class=3D"mat-button-focus-overlay"></span></button><!----><button =
+_ngcontent-sct-c215=3D"" mat-raised-button=3D"" color=3D"primary" mattoolti=
+p=3D"Ctrl + '" mattooltipclass=3D"custom-tooltip" class=3D"mat-focus-indica=
+tor mat-tooltip-trigger mat-raised-button mat-button-base mat-primary" aria=
+-describedby=3D"cdk-describedby-message-3" cdk-describedby-host=3D""><span =
+class=3D"mat-button-wrapper">Submit</span><span matripple=3D"" class=3D"mat=
+-ripple mat-button-ripple"></span><span class=3D"mat-button-focus-overlay">=
+</span></button><!----><button _ngcontent-sct-c215=3D"" mat-icon-button=3D"=
+" mattooltipposition=3D"left" mattooltip=3D"Notes" class=3D"mat-focus-indic=
+ator mat-tooltip-trigger notes-btn mat-icon-button mat-button-base ng-star-=
+inserted" aria-describedby=3D"cdk-describedby-message-7" cdk-describedby-ho=
+st=3D""><span class=3D"mat-button-wrapper"><mat-icon _ngcontent-sct-c215=3D=
+"" role=3D"img" class=3D"mat-icon notranslate material-icons mat-icon-no-co=
+lor ng-star-inserted" aria-hidden=3D"true" data-mat-icon-type=3D"font">assi=
+gnment</mat-icon><!----><!----></span><span matripple=3D"" class=3D"mat-rip=
+ple mat-button-ripple mat-button-ripple-round"></span><span class=3D"mat-bu=
+tton-focus-overlay"></span></button><!----><!----></div></form></div></app-=
+editor><!----><!----></div></div></div><div _ngcontent-sct-c216=3D"" class=
+=3D"small-screen"><div _ngcontent-sct-c216=3D"" class=3D"flex justify-cente=
+r pt-28 px-4"><div _ngcontent-sct-c216=3D"" class=3D"bg-gray-200 p-4 rounde=
+d-lg"><h2 _ngcontent-sct-c216=3D"">Please note that contests are not compat=
+ible with lower width mobile devices. To enter, please use a PC. </h2></div=
+></div></div></app-solve><!----><div _ngcontent-sct-c219=3D"" class=3D"copy=
+right"> Copyright =C2=A9 2024 | Smart Interviews | All Rights Reserved </di=
+v></div></app-root>
 
 
 
@@ -419,20 +387,35 @@ cdk-describedby-message-3" role=3D"tooltip">Ctrl + '</div><div id=3D"cdk-de=
 scribedby-message-4" role=3D"tooltip">Bookmark this problem</div><div id=3D=
 "cdk-describedby-message-5" role=3D"tooltip">Save Code Template</div><div i=
 d=3D"cdk-describedby-message-6" role=3D"tooltip">You have achieved a score =
-of 20 out of 20</div><div id=3D"cdk-describedby-message-7" role=3D"tooltip"=
+of 50 out of 50</div><div id=3D"cdk-describedby-message-7" role=3D"tooltip"=
 >Notes</div><div id=3D"cdk-describedby-message-8" role=3D"tooltip">Time tak=
 en to solve the problem</div></div><div class=3D"monaco-aria-container"><di=
 v class=3D"monaco-alert" role=3D"alert" aria-atomic=3D"true"></div><div cla=
 ss=3D"monaco-alert" role=3D"alert" aria-atomic=3D"true"></div><div class=3D=
 "monaco-status" role=3D"complementary" aria-live=3D"polite" aria-atomic=3D"=
 true"></div><div class=3D"monaco-status" role=3D"complementary" aria-live=
-=3D"polite" aria-atomic=3D"true"></div></div></body></html>
-------MultipartBoundary--X4P7DS0TfxAxX4Q88JP46XbwXMXPBhuvImNtbvfwOp----
+=3D"polite" aria-atomic=3D"true"></div></div><div class=3D"overlay-containe=
+r" aria-live=3D"polite"><div id=3D"toast-container" class=3D"toast-top-righ=
+t toast-container"><div class=3D"ng-tns-c8-6 ng-star-inserted ng-trigger ng=
+-trigger-flyInOut ngx-toastr toast-error" toast-component=3D"" style=3D"opa=
+city: 1;"><!----><!----><!----><div role=3D"alert" class=3D"ng-tns-c8-6 toa=
+st-message ng-star-inserted" aria-label=3D"Something went wrong. Please try=
+ again later." style=3D""> Something went wrong. Please try again later. </=
+div><!----><div class=3D"ng-tns-c8-6 ng-star-inserted" style=3D""><div clas=
+s=3D"toast-progress ng-tns-c8-6" style=3D"width: 44.58%;"></div></div><!---=
+-></div></div></div></body></html>
+------MultipartBoundary--7ew5Xo5Ht6J7NCGjGoPsWtQvtNDE0WIAjnOk7HPx4v----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-a5940897-ba70-4ff2-831f-b1cbd0c0bd33@mhtml.blink
+Content-Location: cid:css-99f9cd9d-2aea-4c26-b2d1-2e36b7599d7b@mhtml.blink
 
 @charset "utf-8";
 
-.app-container[_ngcontent-gbs-c218] { min-width: 100vw; min-height: 100vh; }
+.app-container[_ngcontent-sct-c219] { min-width: 100vw; min-height: 95vh; p=
+osition: relative; padding: 0px 0px 5vh; }
+
+.copyright[_ngcontent-sct-c219] { width: 100%; display: flex; align-items: =
+center; justify-content: center; text-align: center; opacity: 0.4; backgrou=
+nd-color: rgb(250, 250, 250); padding: 10px 0px; position: absolute; bottom=
+: 0px; }
 ------MultipartBoundary

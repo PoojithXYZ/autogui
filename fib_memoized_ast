@@ -1,0 +1,165 @@
+// AST
+digraph {
+	graph [rankdir=TB]
+	node_36 [label=Module]
+	node_37 [label="FunctionDef
+Name: fib_memoized"]
+	node_36 -> node_37
+	node_38 [label=arguments]
+	node_37 -> node_38
+	node_39 [label="arg
+Arg: n"]
+	node_38 -> node_39
+	node_40 [label="arg
+Arg: memo"]
+	node_38 -> node_40
+	node_41 [label=Dict]
+	node_38 -> node_41
+	node_42 [label=If]
+	node_37 -> node_42
+	node_43 [label=Compare]
+	node_42 -> node_43
+	node_44 [label="Name
+ID: n"]
+	node_43 -> node_44
+	node_45 [label=Load]
+	node_44 -> node_45
+	node_46 [label=In]
+	node_43 -> node_46
+	node_47 [label="Name
+ID: memo"]
+	node_43 -> node_47
+	node_48 [label=Load]
+	node_47 -> node_48
+	node_49 [label="Return
+Value: <ast.Subscript object at 0x7c6a0077fa50>"]
+	node_42 -> node_49
+	node_50 [label="Subscript
+Value: <ast.Name object at 0x7c6a0077fa10>"]
+	node_49 -> node_50
+	node_51 [label="Name
+ID: memo"]
+	node_50 -> node_51
+	node_52 [label=Load]
+	node_51 -> node_52
+	node_53 [label="Name
+ID: n"]
+	node_50 -> node_53
+	node_54 [label=Load]
+	node_53 -> node_54
+	node_55 [label=Load]
+	node_50 -> node_55
+	node_56 [label=If]
+	node_37 -> node_56
+	node_57 [label=Compare]
+	node_56 -> node_57
+	node_58 [label="Name
+ID: n"]
+	node_57 -> node_58
+	node_59 [label=Load]
+	node_58 -> node_59
+	node_60 [label=LtE]
+	node_57 -> node_60
+	node_61 [label="Constant
+Value: 1"]
+	node_57 -> node_61
+	node_62 [label="Return
+Value: <ast.Name object at 0x7c6a0077f550>"]
+	node_56 -> node_62
+	node_63 [label="Name
+ID: n"]
+	node_62 -> node_63
+	node_64 [label=Load]
+	node_63 -> node_64
+	node_65 [label="Assign
+Value: <ast.BinOp object at 0x7c6a0077f310>"]
+	node_56 -> node_65
+	node_66 [label="Name
+ID: result"]
+	node_65 -> node_66
+	node_67 [label=Store]
+	node_66 -> node_67
+	node_68 [label=BinOp]
+	node_65 -> node_68
+	node_69 [label=Call]
+	node_68 -> node_69
+	node_70 [label="Name
+ID: fib_memoized"]
+	node_69 -> node_70
+	node_71 [label=Load]
+	node_70 -> node_71
+	node_72 [label=BinOp]
+	node_69 -> node_72
+	node_73 [label="Name
+ID: n"]
+	node_72 -> node_73
+	node_74 [label=Load]
+	node_73 -> node_74
+	node_75 [label=Sub]
+	node_72 -> node_75
+	node_76 [label="Constant
+Value: 1"]
+	node_72 -> node_76
+	node_77 [label="Name
+ID: memo"]
+	node_69 -> node_77
+	node_78 [label=Load]
+	node_77 -> node_78
+	node_79 [label=Add]
+	node_68 -> node_79
+	node_80 [label=Call]
+	node_68 -> node_80
+	node_81 [label="Name
+ID: fib_memoized"]
+	node_80 -> node_81
+	node_82 [label=Load]
+	node_81 -> node_82
+	node_83 [label=BinOp]
+	node_80 -> node_83
+	node_84 [label="Name
+ID: n"]
+	node_83 -> node_84
+	node_85 [label=Load]
+	node_84 -> node_85
+	node_86 [label=Sub]
+	node_83 -> node_86
+	node_87 [label="Constant
+Value: 2"]
+	node_83 -> node_87
+	node_88 [label="Name
+ID: memo"]
+	node_80 -> node_88
+	node_89 [label=Load]
+	node_88 -> node_89
+	node_90 [label="Assign
+Value: <ast.Name object at 0x7c6a0077e950>"]
+	node_56 -> node_90
+	node_91 [label="Subscript
+Value: <ast.Name object at 0x7c6a0077ead0>"]
+	node_90 -> node_91
+	node_92 [label="Name
+ID: memo"]
+	node_91 -> node_92
+	node_93 [label=Load]
+	node_92 -> node_93
+	node_94 [label="Name
+ID: n"]
+	node_91 -> node_94
+	node_95 [label=Load]
+	node_94 -> node_95
+	node_96 [label=Store]
+	node_91 -> node_96
+	node_97 [label="Name
+ID: result"]
+	node_90 -> node_97
+	node_98 [label=Load]
+	node_97 -> node_98
+	node_99 [label="Return
+Value: <ast.Name object at 0x7c6a0077e810>"]
+	node_56 -> node_99
+	node_100 [label="Name
+ID: result"]
+	node_99 -> node_100
+	node_101 [label=Load]
+	node_100 -> node_101
+}

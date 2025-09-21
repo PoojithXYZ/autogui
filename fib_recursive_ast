@@ -1,0 +1,80 @@
+// AST
+digraph {
+	graph [rankdir=TB]
+	node_18 [label=Module]
+	node_19 [label="FunctionDef
+Name: fib_recursive"]
+	node_18 -> node_19
+	node_20 [label=arguments]
+	node_19 -> node_20
+	node_21 [label="arg
+Arg: n"]
+	node_20 -> node_21
+	node_22 [label=If]
+	node_19 -> node_22
+	node_23 [label=Compare]
+	node_22 -> node_23
+	node_24 [label="Name
+ID: n"]
+	node_23 -> node_24
+	node_25 [label=Load]
+	node_24 -> node_25
+	node_26 [label=LtE]
+	node_23 -> node_26
+	node_27 [label="Constant
+Value: 1"]
+	node_23 -> node_27
+	node_28 [label="Return
+Value: <ast.Name object at 0x7d79b467f210>"]
+	node_22 -> node_28
+	node_29 [label="Name
+ID: n"]
+	node_28 -> node_29
+	node_30 [label=Load]
+	node_29 -> node_30
+	node_31 [label="Return
+Value: <ast.BinOp object at 0x7d79b467f0d0>"]
+	node_22 -> node_31
+	node_32 [label=BinOp]
+	node_31 -> node_32
+	node_33 [label=Call]
+	node_32 -> node_33
+	node_34 [label="Name
+ID: fib_recursive"]
+	node_33 -> node_34
+	node_35 [label=Load]
+	node_34 -> node_35
+	node_36 [label=BinOp]
+	node_33 -> node_36
+	node_37 [label="Name
+ID: n"]
+	node_36 -> node_37
+	node_38 [label=Load]
+	node_37 -> node_38
+	node_39 [label=Sub]
+	node_36 -> node_39
+	node_40 [label="Constant
+Value: 1"]
+	node_36 -> node_40
+	node_41 [label=Add]
+	node_32 -> node_41
+	node_42 [label=Call]
+	node_32 -> node_42
+	node_43 [label="Name
+ID: fib_recursive"]
+	node_42 -> node_43
+	node_44 [label=Load]
+	node_43 -> node_44
+	node_45 [label=BinOp]
+	node_42 -> node_45
+	node_46 [label="Name
+ID: n"]
+	node_45 -> node_46
+	node_47 [label=Load]
+	node_46 -> node_47
+	node_48 [label=Sub]
+	node_45 -> node_48
+	node_49 [label="Constant
+Value: 2"]
+	node_45 -> node_49
+}

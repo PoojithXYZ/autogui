@@ -1,0 +1,29 @@
+// lazy_segtree Call Graph
+digraph {
+	graph [rankdir=LR]
+	update [label=update]
+	all_apply [label=all_apply]
+	push [label=push]
+	__init__ [label=__init__]
+	set [label=set]
+	get [label=get]
+	prod [label=prod]
+	all_prod [label=all_prod]
+	apply_point [label=apply_point]
+	apply [label=apply]
+	max_right [label=max_right]
+	min_left [label=min_left]
+	push -> all_apply
+	__init__ -> update
+	set -> push
+	set -> update
+	get -> push
+	prod -> push
+	apply_point -> push
+	apply_point -> update
+	apply -> all_apply
+	apply -> push
+	apply -> update
+	max_right -> push
+	min_left -> push
+}

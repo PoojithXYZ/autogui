@@ -1,0 +1,217 @@
+// AST
+digraph {
+	graph [rankdir=TB]
+	node_43 [label=Module]
+	node_44 [label="FunctionDef
+Name: fib_tabulated"]
+	node_43 -> node_44
+	node_45 [label=arguments]
+	node_44 -> node_45
+	node_46 [label="arg
+Arg: n"]
+	node_45 -> node_46
+	node_47 [label=If]
+	node_44 -> node_47
+	node_48 [label=Compare]
+	node_47 -> node_48
+	node_49 [label="Name
+ID: n"]
+	node_48 -> node_49
+	node_50 [label=Load]
+	node_49 -> node_50
+	node_51 [label=LtE]
+	node_48 -> node_51
+	node_52 [label="Constant
+Value: 1"]
+	node_48 -> node_52
+	node_53 [label="Return
+Value: <ast.Name object at 0x7ba04eb7fbd0>"]
+	node_47 -> node_53
+	node_54 [label="Name
+ID: n"]
+	node_53 -> node_54
+	node_55 [label=Load]
+	node_54 -> node_55
+	node_56 [label="Assign
+Value: <ast.BinOp object at 0x7ba04eb7f990>"]
+	node_44 -> node_56
+	node_57 [label="Name
+ID: dp"]
+	node_56 -> node_57
+	node_58 [label=Store]
+	node_57 -> node_58
+	node_59 [label=BinOp]
+	node_56 -> node_59
+	node_60 [label=List]
+	node_59 -> node_60
+	node_61 [label="Constant
+Value: 0"]
+	node_60 -> node_61
+	node_62 [label=Load]
+	node_60 -> node_62
+	node_63 [label=Mult]
+	node_59 -> node_63
+	node_64 [label=BinOp]
+	node_59 -> node_64
+	node_65 [label="Name
+ID: n"]
+	node_64 -> node_65
+	node_66 [label=Load]
+	node_65 -> node_66
+	node_67 [label=Add]
+	node_64 -> node_67
+	node_68 [label="Constant
+Value: 1"]
+	node_64 -> node_68
+	node_69 [label="Assign
+Value: <ast.Constant object at 0x7ba04eb7f410>"]
+	node_44 -> node_69
+	node_70 [label="Subscript
+Value: <ast.Name object at 0x7ba04eb7f590>"]
+	node_69 -> node_70
+	node_71 [label="Name
+ID: dp"]
+	node_70 -> node_71
+	node_72 [label=Load]
+	node_71 -> node_72
+	node_73 [label="Constant
+Value: 0"]
+	node_70 -> node_73
+	node_74 [label=Store]
+	node_70 -> node_74
+	node_75 [label="Constant
+Value: 0"]
+	node_69 -> node_75
+	node_76 [label="Assign
+Value: <ast.Constant object at 0x7ba04eb7f150>"]
+	node_44 -> node_76
+	node_77 [label="Subscript
+Value: <ast.Name object at 0x7ba04eb7f2d0>"]
+	node_76 -> node_77
+	node_78 [label="Name
+ID: dp"]
+	node_77 -> node_78
+	node_79 [label=Load]
+	node_78 -> node_79
+	node_80 [label="Constant
+Value: 1"]
+	node_77 -> node_80
+	node_81 [label=Store]
+	node_77 -> node_81
+	node_82 [label="Constant
+Value: 1"]
+	node_76 -> node_82
+	node_83 [label=For]
+	node_44 -> node_83
+	node_84 [label="Name
+ID: i"]
+	node_83 -> node_84
+	node_85 [label=Store]
+	node_84 -> node_85
+	node_86 [label=Call]
+	node_83 -> node_86
+	node_87 [label="Name
+ID: range"]
+	node_86 -> node_87
+	node_88 [label=Load]
+	node_87 -> node_88
+	node_89 [label="Constant
+Value: 2"]
+	node_86 -> node_89
+	node_90 [label=BinOp]
+	node_86 -> node_90
+	node_91 [label="Name
+ID: n"]
+	node_90 -> node_91
+	node_92 [label=Load]
+	node_91 -> node_92
+	node_93 [label=Add]
+	node_90 -> node_93
+	node_94 [label="Constant
+Value: 1"]
+	node_90 -> node_94
+	node_95 [label="Assign
+Value: <ast.BinOp object at 0x7ba04eb7e9d0>"]
+	node_83 -> node_95
+	node_96 [label="Subscript
+Value: <ast.Name object at 0x7ba04eb7eb50>"]
+	node_95 -> node_96
+	node_97 [label="Name
+ID: dp"]
+	node_96 -> node_97
+	node_98 [label=Load]
+	node_97 -> node_98
+	node_99 [label="Name
+ID: i"]
+	node_96 -> node_99
+	node_100 [label=Load]
+	node_99 -> node_100
+	node_101 [label=Store]
+	node_96 -> node_101
+	node_102 [label=BinOp]
+	node_95 -> node_102
+	node_103 [label="Subscript
+Value: <ast.Name object at 0x7ba04eb7e950>"]
+	node_102 -> node_103
+	node_104 [label="Name
+ID: dp"]
+	node_103 -> node_104
+	node_105 [label=Load]
+	node_104 -> node_105
+	node_106 [label=BinOp]
+	node_103 -> node_106
+	node_107 [label="Name
+ID: i"]
+	node_106 -> node_107
+	node_108 [label=Load]
+	node_107 -> node_108
+	node_109 [label=Sub]
+	node_106 -> node_109
+	node_110 [label="Constant
+Value: 1"]
+	node_106 -> node_110
+	node_111 [label=Load]
+	node_103 -> node_111
+	node_112 [label=Add]
+	node_102 -> node_112
+	node_113 [label="Subscript
+Value: <ast.Name object at 0x7ba04ed09bd0>"]
+	node_102 -> node_113
+	node_114 [label="Name
+ID: dp"]
+	node_113 -> node_114
+	node_115 [label=Load]
+	node_114 -> node_115
+	node_116 [label=BinOp]
+	node_113 -> node_116
+	node_117 [label="Name
+ID: i"]
+	node_116 -> node_117
+	node_118 [label=Load]
+	node_117 -> node_118
+	node_119 [label=Sub]
+	node_116 -> node_119
+	node_120 [label="Constant
+Value: 2"]
+	node_116 -> node_120
+	node_121 [label=Load]
+	node_113 -> node_121
+	node_122 [label="Return
+Value: <ast.Subscript object at 0x7ba04eb88190>"]
+	node_44 -> node_122
+	node_123 [label="Subscript
+Value: <ast.Name object at 0x7ba04eb881d0>"]
+	node_122 -> node_123
+	node_124 [label="Name
+ID: dp"]
+	node_123 -> node_124
+	node_125 [label=Load]
+	node_124 -> node_125
+	node_126 [label="Name
+ID: n"]
+	node_123 -> node_126
+	node_127 [label=Load]
+	node_126 -> node_127
+	node_128 [label=Load]
+	node_123 -> node_128
+}

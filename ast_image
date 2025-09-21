@@ -1,0 +1,228 @@
+// AST
+digraph {
+	graph [rankdir=TB]
+	node_55 [label=Module]
+	node_56 [label="ClassDef
+Name: Solution"]
+	node_55 -> node_56
+	node_57 [label="FunctionDef
+Name: maxLen"]
+	node_56 -> node_57
+	node_58 [label=arguments]
+	node_57 -> node_58
+	node_59 [label="arg
+Arg: self"]
+	node_58 -> node_59
+	node_60 [label="arg
+Arg: n"]
+	node_58 -> node_60
+	node_61 [label="Name
+ID: int"]
+	node_60 -> node_61
+	node_62 [label=Load]
+	node_61 -> node_62
+	node_63 [label="arg
+Arg: e"]
+	node_58 -> node_63
+	node_64 [label="Subscript
+Value: <ast.Name object at 0x71035894fcd0>"]
+	node_63 -> node_64
+	node_65 [label="Name
+ID: List"]
+	node_64 -> node_65
+	node_66 [label=Load]
+	node_65 -> node_66
+	node_67 [label="Subscript
+Value: <ast.Name object at 0x71035894fbd0>"]
+	node_64 -> node_67
+	node_68 [label="Name
+ID: List"]
+	node_67 -> node_68
+	node_69 [label=Load]
+	node_68 -> node_69
+	node_70 [label="Name
+ID: int"]
+	node_67 -> node_70
+	node_71 [label=Load]
+	node_70 -> node_71
+	node_72 [label=Load]
+	node_67 -> node_72
+	node_73 [label=Load]
+	node_64 -> node_73
+	node_74 [label="arg
+Arg: l"]
+	node_58 -> node_74
+	node_75 [label="Name
+ID: str"]
+	node_74 -> node_75
+	node_76 [label=Load]
+	node_75 -> node_76
+	node_77 [label="Assign
+Value: <ast.ListComp object at 0x71035894f750>"]
+	node_57 -> node_77
+	node_78 [label="Name
+ID: g"]
+	node_77 -> node_78
+	node_79 [label=Store]
+	node_78 -> node_79
+	node_80 [label=ListComp]
+	node_77 -> node_80
+	node_81 [label=List]
+	node_80 -> node_81
+	node_82 [label=Load]
+	node_81 -> node_82
+	node_83 [label=comprehension]
+	node_80 -> node_83
+	node_84 [label="Name
+ID: _"]
+	node_83 -> node_84
+	node_85 [label=Store]
+	node_84 -> node_85
+	node_86 [label=Call]
+	node_83 -> node_86
+	node_87 [label="Name
+ID: range"]
+	node_86 -> node_87
+	node_88 [label=Load]
+	node_87 -> node_88
+	node_89 [label="Name
+ID: n"]
+	node_86 -> node_89
+	node_90 [label=Load]
+	node_89 -> node_90
+	node_91 [label=For]
+	node_57 -> node_91
+	node_92 [label=Tuple]
+	node_91 -> node_92
+	node_93 [label="Name
+ID: u"]
+	node_92 -> node_93
+	node_94 [label=Store]
+	node_93 -> node_94
+	node_95 [label="Name
+ID: v"]
+	node_92 -> node_95
+	node_96 [label=Store]
+	node_95 -> node_96
+	node_97 [label=Store]
+	node_92 -> node_97
+	node_98 [label="Name
+ID: e"]
+	node_91 -> node_98
+	node_99 [label=Load]
+	node_98 -> node_99
+	node_100 [label="Expr
+Value: <ast.Call object at 0x71035894ef50>"]
+	node_91 -> node_100
+	node_101 [label=Call]
+	node_100 -> node_101
+	node_102 [label="Attribute
+Value: <ast.Subscript object at 0x71035894eed0>"]
+	node_101 -> node_102
+	node_103 [label="Subscript
+Value: <ast.Name object at 0x71035894ee90>"]
+	node_102 -> node_103
+	node_104 [label="Name
+ID: g"]
+	node_103 -> node_104
+	node_105 [label=Load]
+	node_104 -> node_105
+	node_106 [label="Name
+ID: u"]
+	node_103 -> node_106
+	node_107 [label=Load]
+	node_106 -> node_107
+	node_108 [label=Load]
+	node_103 -> node_108
+	node_109 [label=Load]
+	node_102 -> node_109
+	node_110 [label="Name
+ID: v"]
+	node_101 -> node_110
+	node_111 [label=Load]
+	node_110 -> node_111
+	node_112 [label="Expr
+Value: <ast.Call object at 0x71035894eb50>"]
+	node_91 -> node_112
+	node_113 [label=Call]
+	node_112 -> node_113
+	node_114 [label="Attribute
+Value: <ast.Subscript object at 0x71035894ead0>"]
+	node_113 -> node_114
+	node_115 [label="Subscript
+Value: <ast.Name object at 0x71035894ea90>"]
+	node_114 -> node_115
+	node_116 [label="Name
+ID: g"]
+	node_115 -> node_116
+	node_117 [label=Load]
+	node_116 -> node_117
+	node_118 [label="Name
+ID: v"]
+	node_115 -> node_118
+	node_119 [label=Load]
+	node_118 -> node_119
+	node_120 [label=Load]
+	node_115 -> node_120
+	node_121 [label=Load]
+	node_114 -> node_121
+	node_122 [label="Name
+ID: u"]
+	node_113 -> node_122
+	node_123 [label=Load]
+	node_122 -> node_123
+	node_124 [label="Assign
+Value: <ast.Call object at 0x71035894e610>"]
+	node_57 -> node_124
+	node_125 [label="Name
+ID: q"]
+	node_124 -> node_125
+	node_126 [label=Store]
+	node_125 -> node_126
+	node_127 [label=Call]
+	node_124 -> node_127
+	node_128 [label="Name
+ID: deque"]
+	node_127 -> node_128
+	node_129 [label=Load]
+	node_128 -> node_129
+	node_130 [label="Assign
+Value: <ast.Call object at 0x71035892f850>"]
+	node_57 -> node_130
+	node_131 [label="Name
+ID: vis"]
+	node_130 -> node_131
+	node_132 [label=Store]
+	node_131 -> node_132
+	node_133 [label=Call]
+	node_130 -> node_133
+	node_134 [label="Name
+ID: set"]
+	node_133 -> node_134
+	node_135 [label=Load]
+	node_134 -> node_135
+	node_136 [label="Assign
+Value: <ast.Constant object at 0x710358958210>"]
+	node_57 -> node_136
+	node_137 [label="Name
+ID: ans"]
+	node_136 -> node_137
+	node_138 [label=Store]
+	node_137 -> node_138
+	node_139 [label="Constant
+Value: 1"]
+	node_136 -> node_139
+	node_140 [label="Return
+Value: <ast.Name object at 0x7103589582d0>"]
+	node_57 -> node_140
+	node_141 [label="Name
+ID: ans"]
+	node_140 -> node_141
+	node_142 [label=Load]
+	node_141 -> node_142
+	node_143 [label="Name
+ID: int"]
+	node_57 -> node_143
+	node_144 [label=Load]
+	node_143 -> node_144
+}
